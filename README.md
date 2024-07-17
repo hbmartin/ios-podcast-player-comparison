@@ -12,6 +12,8 @@ See the [articles](#articles-and-references) section for links to descriptions a
 
 ⚠️ = partial support
 
+## Chapters and Notes
+
 |                  | Paged Feeds | Chap. Mark | MP3 Chap. Mark | Auto Chap. | Chap. Dura-tion | Chap. Start Time | Chap. End Time | Chap. Pics | Notes for DL'd | Notes w/o DL |
 | ---------------- | ----------- | ---------- | -------------- | ---------- | --------------- | ---------------- | -------------- | ---------- | -------------- | ------------ |
 | Overcast         |             | ✅          | ✅              | 🚫          |                 |                  |                | ✅          | ✅              |              |
@@ -29,6 +31,8 @@ See the [articles](#articles-and-references) section for links to descriptions a
 | Podcat           |             | ✅          | ✅              |            |                 |                  |                |            |                |              |
 | Instacast        | ✅           | ✅          | ✅              | ✅          | ✅               | 🚫                | 🚫              | ✅          | ✅              | ✅            |
 | Podcatchr        |             | ✅          | 🚫              | ✅          | ✅               | ✅                | ✅              | ✅          | ✅              | ✅            |
+
+## Playback and Playlists
 
 |                  | Sleep Timer | Radio Mode | Play Speed | Gap-less Play | Vol. Boost | Book marks | Personal Playlist | Personal Smart Playlist | Predef. Smart Playlist |
 | ---------------- | ----------- | ---------- | ---------- | ------------- | ---------- | ---------- | ----------------- | ----------------------- | ---------------------- |
@@ -48,6 +52,8 @@ See the [articles](#articles-and-references) section for links to descriptions a
 | Instacast        | ✅           | 🚫          | ✅          | ✅             | 🚫          | ✅          | ✅                 | 🚫                       | ✅           |
 | Podcatchr        | ✅           | 🚫          | ✅          | ✅             | 🚫          | ✅          | ✅                 | 🚫                       | ✅           |
 
+## File Formats, Devices, and Subscriptions
+
 |                  | Opus | AirPlay | Audio Scrub. | iPad | Land-scape | Inline Browser | Push new eps. | Custom Sub. Sort | Alpha. Sub. Sort | Ext-ended Video |
 | ---------------- | ---- | ------- | ------------ | ---- | ---------- | -------------- | ------------- | ---------------- | ---------------- | --------------- |
 | Overcast         |      | ✅       |              | 🚫    |            |                | ✅             |                  |              |                |
@@ -65,6 +71,8 @@ See the [articles](#articles-and-references) section for links to descriptions a
 | Podcat           |      |         |              |      |            |                |               |                  |                  |                 |
 | Instacast        | 🚫    | ✅       | ✅            | ✅    | ⚠️          | ✅              | ✅             | ✅                | ⚠️     | ✅               |
 | Podcatchr        | 🚫    | ✅       | ✅            | 🚫    | ✅          | ✅              | ✅             | ✅                | ✅     | ✅               |
+
+## Controls and Downloads
 
 |                  | Touch Controls | OS Play Controls | Skip Intro | Play DL'ing Ep. | Parallel DL's | Episode stream | Pass. pro-tected | Auto. DL Opts | Disk Space Mgmt |
 | ---------------- | -------------- | ---------------- | ---------- | --------------- | ------------- | -------------- | ---------------- | ------------- | --------------- |
@@ -84,6 +92,8 @@ See the [articles](#articles-and-references) section for links to descriptions a
 | Instacast        | ✅              | ✅                | 🚫          | 🚫               | ✅             | ✅              | ✅                | ✅             | ✅     |
 | Podcatchr        | ✅              | ✅                | 🚫          | ✅               | ✅             | ✅              | 🚫                | ✅             | ✅     |
 
+## Sync and Import / Export
+
 |                  | Cross Device Sync | Sync Tech. | Import Music Lib. | OPML Export | OPML Import | Pod-cast Dir. | Atom Feed |
 | ---------------- | ----------------- | ---------- | ----------------- | ----------- | ----------- | ------------- | --------- |
 | Overcast         |                   |            |                   |             |             |               |           |
@@ -101,6 +111,8 @@ See the [articles](#articles-and-references) section for links to descriptions a
 | Podcat           |                   |            |                   |             |             |               |           |
 | Instacast        | ✅                 | Prop.      | ✅                 | ✅           | ✅           | ✅        | ✅         |
 | Podcatchr        | ✅                 | Prop.      | 🚫                 | ✅           | ✅           | ✅        | ✅         |
+
+## Other
 
 |                  | Social Share | Per Podcast Settings | Add Ep. to Playlist w/o sub. | App subscription URI scheme            | Wikidata ID                                            |
 | ---------------- | ------------ | -------------------- | ---------------------------- | -------------------------------------- | ------------------------------------------------------ |
