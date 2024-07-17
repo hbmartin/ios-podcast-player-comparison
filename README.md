@@ -6,6 +6,13 @@ Work is ongoing to update this document, you are welcome to help edit this!
 
 See the [articles](#articles-and-references) section for links to descriptions and screenshots.
 
+* [Chapters and Notes](#chapters-and-notes)
+* [Playback and Playlists](#playback-and-playlists)
+* [File Formats, Devices, and Subscriptions](#file-formats-devices-and-subscriptions)
+* [Controls and Downloads](#controls-and-downloads)
+* [Sync and Import / Export](#sync-and-import--export)
+* [Other](#other)
+
 ✅ = supported
 
 🚫 = not supported
@@ -36,16 +43,16 @@ See the [articles](#articles-and-references) section for links to descriptions a
 
 |                  | Sleep Timer | Radio Mode | Play Speed | Gap-less Play | Vol. Boost | Book marks | Personal Playlist | Personal Smart Playlist | Predef. Smart Playlist |
 | ---------------- | ----------- | ---------- | ---------- | ------------- | ---------- | ---------- | ----------------- | ----------------------- | ---------------------- |
-| Overcast         | ✅           | 🚫          | ✅          | ✅             | ✅          |            | ✅                 | ✅                       |               | 
+| Overcast         | ✅           | 🚫          | ✅          | ✅             | ✅          |            | ✅                 | ✅                       |               |
 | Castro           | ✅           | 🚫          | ✅          | ✅             | ✅          | 🚫          | ✅                 | ✅                       | ✅           |
 | Downcast         | ✅           | 🚫          | ✅          | 🚫             | ✅          | 🚫          | ✅                 | ✅                       | ✅           |
 | iCatcher!        | ✅           | 🚫          | ✅          |               | 🚫          | ✅          | ✅                 | ✅                       | ✅            |
 | Pocket Casts     | ✅           | 🚫          | ✅          | ✅             | 🚫          | 🚫          | ✅                 | ✅                       | ✅           |
 | Procast          |             |            |            |               |            |            |                   |                         |                        |
 | Pod Wrangler     |             |            |            |               |            |            |                   |                         |                        |
-| Apple Podcasts   | ✅           |            | ✅          |               | 🚫          | 🚫          | ✅                 | ⚠️                       | ✅             | 
+| Apple Podcasts   | ✅           |            | ✅          |               | 🚫          | 🚫          | ✅                 | ⚠️                       | ✅             |
 | RSSRadio Premium | 🚫           | 🚫          | ✅          |               | ✅          | ✅          | ✅                 | 🚫                       | ✅            |
-| Podcaster 7      | ✅           |            | ✅          |               | 🚫          | 🚫          | ✅                 | ✅                       | ✅             | 
+| Podcaster 7      | ✅           |            | ✅          |               | 🚫          | 🚫          | ✅                 | ✅                       | ✅             |
 | SleekCast        | ✅           | 🚫          | ✅          |               | 🚫          | ✅          | ✅                 | ✅                       | 🚫            |
 | Mocast           |             |            |            |               |            |            |                   |                         |                        |
 | Podcat           |             |            |            |               |            |            |                   |                         |                        |
