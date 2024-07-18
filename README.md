@@ -121,23 +121,32 @@ See the [articles](#articles-and-references) section for links to descriptions a
 
 ## Other
 
-|                  | Social Share | Per Podcast Settings | Add Ep. to Playlist w/o sub. | App subscription URI scheme            | Wikidata ID                                            |
-| ---------------- | ------------ | -------------------- | ---------------------------- | -------------------------------------- | ------------------------------------------------------ |
-| Overcast         |              |                      |                              | overcast://x-callback-url/add?url=     | [Q20707973](https://www.wikidata.org/wiki/Q20707973)   |
-| Castro           | ✅            | ✅                    | ✅                            | castro://subscribe/                    | [Q100576609](https://www.wikidata.org/wiki/Q100576609) |
-| Downcast         | ✅            | ✅                    | ✅                            | downcast://                            |                                                        |
-| iCatcher!        | ✅            | ✅                    |                              | icatcher://                            |                                                        |
-| Pocket Casts     | ✅            | ✅                    | 🚫                            | pktc://subscribe/feed-url-without-http |                                                        |
-| Procast          |              |                      |                              |                                        |                                                        |
-| Pod Wrangler     |              |                      |                              |                                        |                                                        |
-| Apple Podcasts   | ⚠️            | ✅                    | ✅                            | pcast://                               | [Q70058728](https://www.wikidata.org/wiki/Q70058728)   |
-| RSSRadio Premium | ✅            | ✅                    | ⚠️                            | rssradio://                            |                                                        |
-| Podcaster 7      | ✅            | ✅                    |                              | ?                                      |                                                        |
-| SleekCast        | ✅            | ✅                    | 🚫                            |                                        |                                                        |
-| Mocast           |              |                      |                              |                                        |                                                        |
-| Podcat           |              |                      |                              | podcat://                              |                                                        |
-| Instacast        | ✅            | ✅                    | 🚫                            | instacast://                           |                                                        |
-| Podcatchr        | ✅            | ✅                    | 🚫                            |                                        |                                                        |
+|                  | Price     | Social Share | Per Podcast Settings | Add Ep. to Playlist w/o sub. | App subscription URI scheme            | Wikidata ID                                            |
+| ---------------- | --------- | ------------ | -------------------- | ---------------------------- | -------------------------------------- | ------------------------------------------------------ |
+| Overcast         | $10 /yr   |              |                      |                              | overcast://x-callback-url/add?url=     | [Q20707973](https://www.wikidata.org/wiki/Q20707973)   |
+| Castro           | $25 /yr   | ✅            | ✅                    | ✅                            | castro://subscribe/                    | [Q100576609](https://www.wikidata.org/wiki/Q100576609) |
+| Downcast         |           | ✅            | ✅                    | ✅                            | downcast://                            |                                                        |
+| iCatcher!        |           | ✅            | ✅                    |                              | icatcher://                            |                                                        |
+| Pocket Casts     | $40 /yr ¹ | ✅            | ✅                    | 🚫                            | pktc://subscribe/feed-url-without-http |                                                        |
+| Procast          |           |              |                      |                              |                                        |                                                        |
+| Pod Wrangler     |           |              |                      |                              |                                        |                                                        |
+| Apple Podcasts   |           | ⚠️            | ✅                    | ✅                            | pcast://                               | [Q70058728](https://www.wikidata.org/wiki/Q70058728)   |
+| RSSRadio Premium |           | ✅            | ✅                    | ⚠️                            | rssradio://                            |                                                        |
+| Podcaster 7      |           | ✅            | ✅                    |                              | ?                                      |                                                        |
+| SleekCast        |           | ✅            | ✅                    | 🚫                            |                                        |                                                        |
+| Mocast           |           |              |                      |                              |                                        |                                                        |
+| Podcat           |           |              |                      |                              | podcat://                              |                                                        |
+| Instacast        |           | ✅            | ✅                    | 🚫                            | instacast://                           |                                                        |
+| Podcatchr        |           | ✅            | ✅                    | 🚫                            |                                        |                                                        |
+
+1. 50% off first year
+
+## Acronyms
+
+* Chap = Chapter
+* DL = Download
+* PL = Playlist
+* Ep = Episode
 
 ## Articles and References
 
