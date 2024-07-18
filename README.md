@@ -1,6 +1,8 @@
 # iOS Podcast Player / Client Comparison
 
-🔔 Note: as of July 17, 2024, this is simply copied over from [Podlove's Matrix](https://docs.google.com/spreadsheets/d/1c2L14UVH1xtN4iDG4awheLbMgPCQgaKEamUauWs1gps/edit?gid=0#gid=0) and may be outdated.
+🔔 As of July 18, 2024, this is simply copied over from [Podlove's Matrix](https://docs.google.com/spreadsheets/d/1c2L14UVH1xtN4iDG4awheLbMgPCQgaKEamUauWs1gps/edit?gid=0#gid=0) and may be outdated.
+
+🚨 Many features of Overcast have been removed in the latest release which is not yet documented here.
 
 Work is ongoing to update this document, you are welcome to help edit this!
 
@@ -83,7 +85,7 @@ See the [articles](#articles-and-references) section for links to descriptions a
 
 |                  | Touch Controls | OS Play Controls | Skip Intro | Play DL'ing Ep. | Parallel DL's | Episode stream | Pass. pro-tected | Auto. DL Opts | Disk Space Mgmt |
 | ---------------- | -------------- | ---------------- | ---------- | --------------- | ------------- | -------------- | ---------------- | ------------- | --------------- |
-| Overcast         |                | ✅                |            |                 |               |                |                  |               |                |
+| Overcast         |                | ✅                |            |                 |               |                |                  |               | 🚫 |
 | Castro           | ✅              | ✅                |            | ✅               | ✅             | ✅              |                  | ✅             | ✅        |
 | Downcast         | ✅              | ✅                | ✅          | ✅               | ✅             | ✅              | ✅                | ✅             | ⚠️     |
 | iCatcher!        | ✅              | ✅                | ✅          | ✅               | ✅             | ✅              | ✅                | ✅             | ⚠️     |
@@ -103,7 +105,7 @@ See the [articles](#articles-and-references) section for links to descriptions a
 
 |                  | Cross Device Sync | Sync Tech. | Import Music Lib. | OPML Export | OPML Import | Pod-cast Dir. | Atom Feed |
 | ---------------- | ----------------- | ---------- | ----------------- | ----------- | ----------- | ------------- | --------- |
-| Overcast         |                   |            |                   |             |             |               |           |
+| Overcast         |                   |            |                   | 🚫 |             |               |           |
 | Castro           | 🚫                 |            |                   | ✅           | ✅           | ✅        |           |
 | Downcast         | ✅                 | iCloud     | ✅                 | ✅           | ✅           | ✅        | ✅         |
 | iCatcher!        | ✅                 | iCloud     |                   | ✅           | ✅           | ✅         |           |
@@ -121,23 +123,23 @@ See the [articles](#articles-and-references) section for links to descriptions a
 
 ## Other
 
-|                  | Price     | Social Share | Per Podcast Settings | Add Ep. to Playlist w/o sub. | App subscription URI scheme            | Wikidata ID                                            |
-| ---------------- | --------- | ------------ | -------------------- | ---------------------------- | -------------------------------------- | ------------------------------------------------------ |
-| Overcast         | $10 /yr   |              |                      |                              | overcast://x-callback-url/add?url=     | [Q20707973](https://www.wikidata.org/wiki/Q20707973)   |
-| Castro           | $25 /yr   | ✅            | ✅                    | ✅                            | castro://subscribe/                    | [Q100576609](https://www.wikidata.org/wiki/Q100576609) |
-| Downcast         |           | ✅            | ✅                    | ✅                            | downcast://                            |                                                        |
-| iCatcher!        |           | ✅            | ✅                    |                              | icatcher://                            |                                                        |
-| Pocket Casts     | $40 /yr ¹ | ✅            | ✅                    | 🚫                            | pktc://subscribe/feed-url-without-http |                                                        |
-| Procast          |           |              |                      |                              |                                        |                                                        |
-| Pod Wrangler     |           |              |                      |                              |                                        |                                                        |
-| Apple Podcasts   |           | ⚠️            | ✅                    | ✅                            | pcast://                               | [Q70058728](https://www.wikidata.org/wiki/Q70058728)   |
-| RSSRadio Premium |           | ✅            | ✅                    | ⚠️                            | rssradio://                            |                                                        |
-| Podcaster 7      |           | ✅            | ✅                    |                              | ?                                      |                                                        |
-| SleekCast        |           | ✅            | ✅                    | 🚫                            |                                        |                                                        |
-| Mocast           |           |              |                      |                              |                                        |                                                        |
-| Podcat           |           |              |                      |                              | podcat://                              |                                                        |
-| Instacast        |           | ✅            | ✅                    | 🚫                            | instacast://                           |                                                        |
-| Podcatchr        |           | ✅            | ✅                    | 🚫                            |                                        |                                                        |
+|                  | Price     | Tran-scripts | Social Share | Per Podcast Settings | Add Ep. to Playlist w/o sub. | App subscription URI scheme            | Wikidata ID                                            |
+| ---------------- | --------- | ------------ | ------------ | -------------------- | ---------------------------- | -------------------------------------- | ------------------------------------------------------ |
+| Overcast         | $10 /yr   | 🚫            |              |                      |                              | overcast://x-callback-url/add?url=     | [Q20707973](https://www.wikidata.org/wiki/Q20707973)   |
+| Castro           | $25 /yr   |              | ✅            | ✅                    | ✅                            | castro://subscribe/                    | [Q100576609](https://www.wikidata.org/wiki/Q100576609) |
+| Downcast         |           |              | ✅            | ✅                    | ✅                            | downcast://                            |                                                        |
+| iCatcher!        |           |              | ✅            | ✅                    |                              | icatcher://                            |                                                        |
+| Pocket Casts     | $40 /yr ¹ |              | ✅            | ✅                    | 🚫                            | pktc://subscribe/feed-url-without-http |                                                        |
+| Procast          |           |              |              |                      |                              |                                        |                                                        |
+| Pod Wrangler     |           |              |              |                      |                              |                                        |                                                        |
+| Apple Podcasts   | 🚫         | ✅            | ⚠️            | ✅                    | ✅                            | pcast://                               | [Q70058728](https://www.wikidata.org/wiki/Q70058728)   |
+| RSSRadio Premium |           |              | ✅            | ✅                    | ⚠️                            | rssradio://                            |                                                        |
+| Podcaster 7      |           |              | ✅            | ✅                    |                              | ?                                      |                                                        |
+| SleekCast        |           |              | ✅            | ✅                    | 🚫                            |                                        |                                                        |
+| Mocast           |           |              |              |                      |                              |                                        |                                                        |
+| Podcat           |           |              |              |                      |                              | podcat://                              |                                                        |
+| Instacast        |           |              | ✅            | ✅                    | 🚫                            | instacast://                           |                                                        |
+| Podcatchr        |           |              | ✅            | ✅                    | 🚫                            |                                        |                                                        |
 
 1. 50% off first year
 
