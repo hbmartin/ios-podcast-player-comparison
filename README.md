@@ -23,85 +23,85 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 
 ## Chapters and Notes
 
-|                  | Paged Feeds | Chap. Mark | MP3 Chap. Mark | Auto Chap. | Chap. Dura-tion | Chap. Start Time | Chap. End Time | Chap. Pics | Notes for DL'd | Notes w/o DL |
-| ---------------- | ----------- | ---------- | -------------- | ---------- | --------------- | ---------------- | -------------- | ---------- | -------------- | ------------ |
-| Overcast         |             | ✅          | ✅              | 🚫          |                 |                  |                | ✅          | ✅              |              |
-| Castro           |             | ✅          | ✅              | 🚫          | ✅               |                  |                | ✅          | ✅              | ✅            |
-| Downcast         | 🚫           | ✅          | ✅              | 🚫          | ✅               | ✅                | 🚫              | ✅          | ✅              | ✅            |
-| iCatcher!        |             | ✅          | ✅              | 🚫          | ✅               | ✅                | 🚫              |            | ✅              | ✅            |
-| Pocket Casts     | ✅           | ✅          | 🚫              |            | ✅               | 🚫                | 🚫              | ✅          | ✅              | ✅            |
-| Procast          |             |            |                |            |                 |                  |                |            |                |              |
-| Pod Wrangler     |             |            |                |            |                 |                  |                |            |                |              |
-| Apple Podcasts   |             | ⚠️          | 🚫              | 🚫          | 🚫               | 🚫                | 🚫              | ✅          | ✅              | 🚫            |
-| RSSRadio Premium |             | ✅          |                | 🚫          | 🚫               | ✅                | 🚫              | ✅          | ✅              | ✅            |
-| Podcaster 7      |             | ✅          | 🚫              |            | ✅               | 🚫                | 🚫              |            | ✅              |              |
-| SleekCast        | ✅           | ✅          | ✅              | 🚫          | 🚫               | 🚫                | 🚫              | ✅          | ✅              | ✅            |
-| Mocast           |             |            |                |            |                 |                  |                |            |                |              |
-| Podcat           |             | ✅          | ✅              |            |                 |                  |                |            |                |              |
-| Podcatchr        |             | ✅          | 🚫              | ✅          | ✅               | ✅                | ✅              | ✅          | ✅              | ✅            |
+|                  | Paged Feeds | Chap. Mark | MP3 Chap. Mark | Auto Chap. | Chap. Dura-tion | Chap. Start Time | Chap. End Time | Chap. Image | Notes for DL'd | Notes w/o DL |
+| ---------------- | ----------- | ---------- | -------------- | ---------- | --------------- | ---------------- | -------------- | ----------- | -------------- | ------------ |
+| Overcast         |             | ✅          | ✅              | 🚫          |                 |                  |                | ✅           | ✅              |              |
+| Castro           |             | ✅          | ✅              | 🚫          | ✅               |                  |                | ✅           | ✅              | ✅            |
+| Downcast         | 🚫           | ✅          | ✅              | 🚫          | ✅               | ✅                | 🚫              | ✅           | ✅              | ✅            |
+| iCatcher!        |             | ✅          | ✅              | 🚫          | ✅               | ✅                | 🚫              |             | ✅              | ✅            |
+| Pocket Casts     | ✅           | ✅          | 🚫              |            | ✅               | 🚫                | 🚫              | ✅           | ✅              | ✅            |
+| Procast          |             |            |                |            |                 |                  |                |             |                |              |
+| Pod Wrangler     |             |            |                |            |                 |                  |                |             |                |              |
+| Apple Podcasts   |             | ⚠️          | 🚫              | 🚫          | 🚫               | 🚫                | 🚫              | ✅           | ✅              | 🚫            |
+| RSSRadio Premium |             | ✅          |                | 🚫          | 🚫               | ✅                | 🚫              | ✅           | ✅              | ✅            |
+| Podcaster 7      |             | ✅          | 🚫              |            | ✅               | 🚫                | 🚫              |             | ✅              |              |
+| SleekCast        | ✅           | ✅          | ✅              | 🚫          | 🚫               | 🚫                | 🚫              | ✅           | ✅              | ✅            |
+| Mocast           |             |            |                |            |                 |                  |                |             |                |              |
+| Podcat           |             | ✅          | ✅              |            |                 |                  |                |             |                |              |
+| Podcatch.r       |             | ✅          | 🚫              | ✅          | ✅               | ✅                | ✅              | ✅           | ✅              | ✅            |
 
 ## Playback and Playlists
 
-|                  | Sleep Timer | Radio Mode | Play Speed | Gap-less Play | Vol. Boost | Book marks | Personal Playlist | Personal Smart Playlist | Predef. Smart Playlist |
-| ---------------- | ----------- | ---------- | ---------- | ------------- | ---------- | ---------- | ----------------- | ----------------------- | ---------------------- |
-| Overcast         | ✅           | 🚫          | ✅          | ✅             | ✅          |            | ⚠️               | ⚠️                     |               |
-| Castro           | ✅           | 🚫          | ✅          | ✅             | ✅          | 🚫          | ✅                 | ✅                       | ✅           |
-| Downcast         | ✅           | 🚫          | ✅          | 🚫             | ✅          | 🚫          | ✅                 | ✅                       | ✅           |
-| iCatcher!        | ✅           | 🚫          | ✅          |               | 🚫          | ✅          | ✅                 | ✅                       | ✅            |
-| Pocket Casts     | ✅           | 🚫          | ✅          | ✅             | 🚫          | 🚫          | ✅                 | ✅                       | ✅           |
-| Procast          |             |            |            |               |            |            |                   |                         |                        |
-| Pod Wrangler     |             |            |            |               |            |            |                   |                         |                        |
-| Apple Podcasts   | ✅           |            | ✅          |               | 🚫          | 🚫          | ✅                 | ⚠️                       | ✅             |
-| RSSRadio Premium | 🚫           | 🚫          | ✅          |               | ✅          | ✅          | ✅                 | 🚫                       | ✅            |
-| Podcaster 7      | ✅           |            | ✅          |               | 🚫          | 🚫          | ✅                 | ✅                       | ✅             |
-| SleekCast        | ✅           | 🚫          | ✅          |               | 🚫          | ✅          | ✅                 | ✅                       | 🚫            |
-| Mocast           |             |            |            |               |            |            |                   |                         |                        |
-| Podcat           |             |            |            |               |            |            |                   |                         |                        |
-| Podcatchr        | ✅           | 🚫          | ✅          | ✅             | 🚫          | ✅          | ✅                 | 🚫                       | ✅           |
+|                  | Sleep Timer | Audio Scrub. | Play Speed | Gap-less Play | Vol. Boost | Book marks | Personal Playlist | Personal Smart Playlist | Predef. Smart Playlist |
+| ---------------- | ----------- | ------------ | ---------- | ------------- | ---------- | ---------- | ----------------- | ----------------------- | ---------------------- |
+| Overcast         | ✅           |              | ✅          | ✅             | ✅          |            | ⚠️                 | ⚠️                       |                        |
+| Castro           | ✅           |              | ✅          | ✅             | ✅          | 🚫          | ✅                 | ✅                       | ✅                      |
+| Downcast         | ✅           |              | ✅          | 🚫             | ✅          | 🚫          | ✅                 | ✅                       | ✅                      |
+| iCatcher!        | ✅           |              | ✅          |               | 🚫          | ✅          | ✅                 | ✅                       | ✅                      |
+| Pocket Casts     | ✅           | 🚫            | ✅          | ✅             | 🚫          | 🚫          | ✅                 | ✅                       | ✅                      |
+| Procast          |             |              |            |               |            |            |                   |                         |                        |
+| Pod Wrangler     |             |              |            |               |            |            |                   |                         |                        |
+| Apple Podcasts   | ✅           |              | ✅          |               | 🚫          | 🚫          | ✅                 | ⚠️                       | ✅                      |
+| RSSRadio Premium | 🚫           | ✅            | ✅          |               | ✅          | ✅          | ✅                 | 🚫                       | ✅                      |
+| Podcaster 7      | ✅           |              | ✅          |               | 🚫          | 🚫          | ✅                 | ✅                       | ✅                      |
+| SleekCast        | ✅           | ✅            | ✅          |               | 🚫          | ✅          | ✅                 | ✅                       | 🚫                      |
+| Mocast           |             |              |            |               |            |            |                   |                         |                        |
+| Podcat           |             |              |            |               |            |            |                   |                         |                        |
+| Podcatch.r       | ✅           | ✅            | ✅          | ✅             | 🚫          | ✅          | ✅                 | 🚫                       | ✅                      |
 
 ## File Formats, Devices, and Subscriptions
 
-|                  | Air-Play | Car-Play | Audio Scrub. | iPad | Land-scape | Inline Browser | Push new eps. | Custom Sub. Sort | Alpha. Sub. Sort | Video |
-| ---------------- | -------- | -------- | ------------ | ---- | ---------- | -------------- | ------------- | ---------------- | ---------------- | ----- |
-| Overcast         | ⚠️        | ⚠️        |              | ✅    |            |                | ✅             |                  |                  |       |
-| Castro           | ✅        |          |              | 🚫    |            | ✅              | ✅             | 🚫                | ✅                | 🚫     |
-| Downcast         | ✅        |          |              | ✅    | ✅          | ✅              | ✅             | ✅                | ✅                | ✅     |
-| iCatcher!        | ✅        |          |              | ✅    | ✅          | ✅              | 🚫             | ✅                | ✅                | ✅     |
-| Pocket Casts     | ✅        |          | 🚫            | ✅    | ✅          | ✅              | ✅             | ✅                | ✅                | ✅     |
-| Procast          |          |          |              |      |            |                |               |                  |                  |       |
-| Pod Wrangler     |          |          |              |      |            |                |               |                  |                  |       |
-| Apple Podcasts   | ✅        |          |              | ✅    | 🚫          | 🚫              | 🚫             | ✅                | 🚫                | ✅     |
-| RSSRadio Premium | ✅        |          | ✅            | ✅    | ✅          | ✅              | ✅             | 🚫                | ✅                | ✅     |
-| Podcaster 7      | ✅        |          |              |      | ✅          | ✅              |               |                  | ✅                | ✅     |
-| SleekCast        | ✅        |          | ✅            | 🚫    | ✅          | ✅              | ✅             | ✅                | 🚫                | ✅     |
-| Mocast           |          |          |              |      |            |                |               |                  |                  |       |
-| Podcat           |          |          |              |      |            |                |               |                  |                  |       |
-| Podcatchr        | ✅        |          | ✅            | 🚫    | ✅          | ✅              | ✅             | ✅                | ✅                | ✅     |
+|                  | Air-Play | Car-Play | Siri Short-cuts | iPad | Land-scape | Push new eps. | Custom Sub. Sort | Alpha. Sub. Sort | Video |
+| ---------------- | -------- | -------- | --------------- | ---- | ---------- | ------------- | ---------------- | ---------------- | ----- |
+| Overcast         | ⚠️        | ⚠️        | 🚫               | ✅    | 🚫          | ✅             |                  |                  |       |
+| Castro           | ✅        |          |                 | 🚫    |            | ✅             | 🚫                | ✅                | 🚫     |
+| Downcast         | ✅        |          |                 | ✅    | ✅          | ✅             | ✅                | ✅                | ✅     |
+| iCatcher!        | ✅        |          |                 | ✅    | ✅          | 🚫             | ✅                | ✅                | ✅     |
+| Pocket Casts     | ✅        |          |                 | ✅    | ✅          | ✅             | ✅                | ✅                | ✅     |
+| Procast          |          |          |                 |      |            |               |                  |                  |       |
+| Pod Wrangler     |          |          |                 |      |            |               |                  |                  |       |
+| Apple Podcasts   | ✅        |          |                 | ✅    | 🚫          | 🚫             | ✅                | 🚫                | ✅     |
+| RSSRadio Premium | ✅        |          |                 | ✅    | ✅          | ✅             | 🚫                | ✅                | ✅     |
+| Podcaster 7      | ✅        |          |                 |      | ✅          |               |                  | ✅                | ✅     |
+| SleekCast        | ✅        |          |                 | 🚫    | ✅          | ✅             | ✅                | 🚫                | ✅     |
+| Mocast           |          |          |                 |      |            |               |                  |                  |       |
+| Podcat           |          |          |                 |      |            |               |                  |                  |       |
+| Podcatch.r       | ✅        |          |                 | 🚫    | ✅          | ✅             | ✅                | ✅                | ✅     |
 
 ## Controls and Downloads
 
-|                  | Air-Pod Cntrl. | Skip Intro | Skip Outro | Play DL'ing Ep. | Parallel DL's | Episode stream | Pass. pro-tected | Auto. DL Opts | Disk Space Mgmt |
-| ---------------- | -------------- | ---------- | ---------- | --------------- | ------------- | -------------- | ---------------- | ------------- | --------------- |
-| Overcast         |                | ✅          | ✅          | 🚫               |               | 🚫              |                  |               | 🚫               |
-| Castro           | ✅              |            | 🚫          | ✅               | ✅             | ✅              |                  | ✅             | ✅               |
-| Downcast         | ✅              | ✅          |            | ✅               | ✅             | ✅              | ✅                | ✅             | ⚠️               |
-| iCatcher!        | ✅              | ✅          |            | ✅               | ✅             | ✅              | ✅                | ✅             | ⚠️               |
-| Pocket Casts     | ✅              | ✅          |            | ✅               | ✅             | ✅              | 🚫                | ✅             | ✅               |
-| Procast          |                |            |            |                 |               |                |                  |               |                 |
-| Pod Wrangler     |                |            |            |                 |               |                |                  |               |                 |
-| Apple Podcasts   | ✅              |            |            | ✅               | ✅             | ✅              | 🚫                | ✅             | 🚫               |
-| RSSRadio Premium | ✅              | ✅          |            | 🚫               | ✅             | ✅              | ✅                | ✅             | 🚫               |
-| Podcaster 7      | ✅              |            |            | ✅               | 🚫             | ✅              |                  | ✅             | 🚫               |
-| SleekCast        | ✅              | ✅          |            | ✅               | ✅             | ✅              | 🚫                | ✅             | ✅               |
-| Mocast           |                |            |            |                 |               |                |                  |               |                 |
-| Podcat           |                |            |            |                 |               |                |                  |               |                 |
-| Podcatchr        | ✅              | 🚫          |            | ✅               | ✅             | ✅              | 🚫                | ✅             | ✅               |
+|                  | Air-Pod Cntrl. | Skip Intro | Skip Outro | Play DL'ing Ep. | Parallel DL's | Ep. stream | Pass. pro-tected | Auto. DL Opts | Disk Space Mgmt |
+| ---------------- | -------------- | ---------- | ---------- | --------------- | ------------- | ---------- | ---------------- | ------------- | --------------- |
+| Overcast         | ✅              | ✅          | ✅          | 🚫               | ✅             | 🚫          | ✅                |               | 🚫               |
+| Castro           | ✅              |            | 🚫          | ✅               | ✅             | ✅          |                  | ✅             | ✅               |
+| Downcast         | ✅              | ✅          |            | ✅               | ✅             | ✅          | ✅                | ✅             | ⚠️               |
+| iCatcher!        | ✅              | ✅          |            | ✅               | ✅             | ✅          | ✅                | ✅             | ⚠️               |
+| Pocket Casts     | ✅              | ✅          |            | ✅               | ✅             | ✅          | 🚫                | ✅             | ✅               |
+| Procast          |                |            |            |                 |               |            |                  |               |                 |
+| Pod Wrangler     |                |            |            |                 |               |            |                  |               |                 |
+| Apple Podcasts   | ✅              |            |            | ✅               | ✅             | ✅          | 🚫                | ✅             | 🚫               |
+| RSSRadio Premium | ✅              | ✅          |            | 🚫               | ✅             | ✅          | ✅                | ✅             | 🚫               |
+| Podcaster 7      | ✅              |            |            | ✅               | 🚫             | ✅          |                  | ✅             | 🚫               |
+| SleekCast        | ✅              | ✅          |            | ✅               | ✅             | ✅          | 🚫                | ✅             | ✅               |
+| Mocast           |                |            |            |                 |               |            |                  |               |                 |
+| Podcat           |                |            |            |                 |               |            |                  |               |                 |
+| Podcatch.r       | ✅              | 🚫          |            | ✅               | ✅             | ✅          | 🚫                | ✅             | ✅               |
 
 ## Sync and Import / Export
 
 |                  | Cross Device Sync | Sync Tech. | Import Music Lib. | OPML Export | OPML Import | Pod-cast Dir. | Atom Feed |
 | ---------------- | ----------------- | ---------- | ----------------- | ----------- | ----------- | ------------- | --------- |
-| Overcast         |                   |            |                   | 🚫 | 🚫 |               |           |
+| Overcast         |                   |            |                   | 🚫 | 🚫 |               | ✅ |
 | Castro           | 🚫                 |            |                   | ✅           | ✅           | ✅        |           |
 | Downcast         | ✅                 | iCloud     | ✅                 | ✅           | ✅           | ✅        | ✅         |
 | iCatcher!        | ✅                 | iCloud     |                   | ✅           | ✅           | ✅         |           |
@@ -114,13 +114,13 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | SleekCast        | ✅                 | Prop.      | 🚫                 | ✅           | ✅           | ✅        | 🚫         |
 | Mocast           |                   |            |                   |             |             |               |           |
 | Podcat           |                   |            |                   |             |             |               |           |
-| Podcatchr        | ✅                 | Prop.      | 🚫                 | ✅           | ✅           | ✅        | ✅         |
+| Podcatch.r       | ✅                 | Prop.      | 🚫                 | ✅           | ✅           | ✅        | ✅         |
 
 ## Other
 
 |                  | Price     | Tran-scripts | Social Share | Per Podcast Settings | Add Ep. to Playlist w/o sub. | App subscription URI scheme            | Wikidata ID                                            |
 | ---------------- | --------- | ------------ | ------------ | -------------------- | ---------------------------- | -------------------------------------- | ------------------------------------------------------ |
-| Overcast         | $10 /yr   | 🚫            |              |                      |                              | overcast://x-callback-url/add?url=     | [Q20707973](https://www.wikidata.org/wiki/Q20707973)   |
+| Overcast         | $10 /yr   | 🚫            |              | ✅                    |                              | overcast://x-callback-url/add?url=     | [Q20707973](https://www.wikidata.org/wiki/Q20707973)   |
 | Castro           | $25 /yr   |              | ✅            | ✅                    | ✅                            | castro://subscribe/                    | [Q100576609](https://www.wikidata.org/wiki/Q100576609) |
 | Downcast         |           |              | ✅            | ✅                    | ✅                            | downcast://                            |                                                        |
 | iCatcher!        |           |              | ✅            | ✅                    |                              | icatcher://                            |                                                        |
@@ -133,7 +133,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | SleekCast        |           |              | ✅            | ✅                    | 🚫                            |                                        |                                                        |
 | Mocast           |           |              |              |                      |                              |                                        |                                                        |
 | Podcat           |           |              |              |                      |                              | podcat://                              |                                                        |
-| Podcatchr        |           |              | ✅            | ✅                    | 🚫                            |                                        |                                                        |
+| Podcatch.r       |           |              | ✅            | ✅                    | 🚫                            |                                        |                                                        |
 
 1. 50% off first year
 
