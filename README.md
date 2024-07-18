@@ -38,7 +38,6 @@ See the [articles](#articles-and-references) section for links to descriptions a
 | SleekCast        | ✅           | ✅          | ✅              | 🚫          | 🚫               | 🚫                | 🚫              | ✅          | ✅              | ✅            |
 | Mocast           |             |            |                |            |                 |                  |                |            |                |              |
 | Podcat           |             | ✅          | ✅              |            |                 |                  |                |            |                |              |
-| Instacast        | ✅           | ✅          | ✅              | ✅          | ✅               | 🚫                | 🚫              | ✅          | ✅              | ✅            |
 | Podcatchr        |             | ✅          | 🚫              | ✅          | ✅               | ✅                | ✅              | ✅          | ✅              | ✅            |
 
 ## Playback and Playlists
@@ -58,7 +57,6 @@ See the [articles](#articles-and-references) section for links to descriptions a
 | SleekCast        | ✅           | 🚫          | ✅          |               | 🚫          | ✅          | ✅                 | ✅                       | 🚫            |
 | Mocast           |             |            |            |               |            |            |                   |                         |                        |
 | Podcat           |             |            |            |               |            |            |                   |                         |                        |
-| Instacast        | ✅           | 🚫          | ✅          | ✅             | 🚫          | ✅          | ✅                 | 🚫                       | ✅           |
 | Podcatchr        | ✅           | 🚫          | ✅          | ✅             | 🚫          | ✅          | ✅                 | 🚫                       | ✅           |
 
 ## File Formats, Devices, and Subscriptions
@@ -78,7 +76,6 @@ See the [articles](#articles-and-references) section for links to descriptions a
 | SleekCast        | 🚫    | ✅       | ✅            | 🚫    | ✅          | ✅              | ✅             | ✅                | 🚫     | ✅               |
 | Mocast           |      |         |              |      |            |                |               |                  |                  |                 |
 | Podcat           |      |         |              |      |            |                |               |                  |                  |                 |
-| Instacast        | 🚫    | ✅       | ✅            | ✅    | ⚠️          | ✅              | ✅             | ✅                | ⚠️     | ✅               |
 | Podcatchr        | 🚫    | ✅       | ✅            | 🚫    | ✅          | ✅              | ✅             | ✅                | ✅     | ✅               |
 
 ## Controls and Downloads
@@ -98,7 +95,6 @@ See the [articles](#articles-and-references) section for links to descriptions a
 | SleekCast        | ✅              | ✅                | ✅          | ✅               | ✅             | ✅              | 🚫                | ✅             | ✅     |
 | Mocast           |                |                  |            |                 |               |                |                  |               |                 |
 | Podcat           |                |                  |            |                 |               |                |                  |               |                 |
-| Instacast        | ✅              | ✅                | 🚫          | 🚫               | ✅             | ✅              | ✅                | ✅             | ✅     |
 | Podcatchr        | ✅              | ✅                | 🚫          | ✅               | ✅             | ✅              | 🚫                | ✅             | ✅     |
 
 ## Sync and Import / Export
@@ -118,7 +114,6 @@ See the [articles](#articles-and-references) section for links to descriptions a
 | SleekCast        | ✅                 | Prop.      | 🚫                 | ✅           | ✅           | ✅        | 🚫         |
 | Mocast           |                   |            |                   |             |             |               |           |
 | Podcat           |                   |            |                   |             |             |               |           |
-| Instacast        | ✅                 | Prop.      | ✅                 | ✅           | ✅           | ✅        | ✅         |
 | Podcatchr        | ✅                 | Prop.      | 🚫                 | ✅           | ✅           | ✅        | ✅         |
 
 ## Other
@@ -138,7 +133,6 @@ See the [articles](#articles-and-references) section for links to descriptions a
 | SleekCast        |           |              | ✅            | ✅                    | 🚫                            |                                        |                                                        |
 | Mocast           |           |              |              |                      |                              |                                        |                                                        |
 | Podcat           |           |              |              |                      |                              | podcat://                              |                                                        |
-| Instacast        |           |              | ✅            | ✅                    | 🚫                            | instacast://                           |                                                        |
 | Podcatchr        |           |              | ✅            | ✅                    | 🚫                            |                                        |                                                        |
 
 1. 50% off first year
