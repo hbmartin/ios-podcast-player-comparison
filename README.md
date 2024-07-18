@@ -1,4 +1,4 @@
-# iOS Podcast Player / Client Comparison
+# iOS Podcast Player App Comparison
 
 🔔 Many features of Overcast have been removed in the latest release. Those changes are only partially documented here.
 
@@ -56,14 +56,14 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 |                | Air-Play | Car-Play | Siri Short-cuts | iPad | Land-scape | Push new eps. | Custom Sub. Sort | Alpha. Sub. Sort | Video |
 | -------------- | -------- | -------- | --------------- | ---- | ---------- | ------------- | ---------------- | ---------------- | ----- |
 | Overcast       | ⚠️        | ⚠️        | 🚫               | ✅    | 🚫          | ✅             |                  |                  |       |
-| Castro         | ✅        |          |                 | 🚫    |            | ✅             | 🚫                | ✅                | 🚫     |
-| Downcast       | ✅        |          |                 | ✅    | ✅          | ✅             | ✅                | ✅                | ✅     |
+| Castro         | ✅        |          | ✅               | 🚫    |            | ✅             | 🚫                | ✅                | 🚫     |
+| Downcast       | ✅        |          | ⚠️               | ✅    | ✅          | ✅             | ✅                | ✅                | ✅     |
 | iCatcher!      | ✅        |          |                 | ✅    | ✅          | 🚫             | ✅                | ✅                | ✅     |
-| Pocket Casts   | ✅        |          |                 | ✅    | ✅          | ✅             | ✅                | ✅                | ✅     |
+| Pocket Casts   | ✅        |          | ⚠️               | ✅    | ✅          | ✅             | ✅                | ✅                | ✅     |
 | Procast        |          |          |                 |      |            |               |                  |                  |       |
-| Apple Podcasts | ✅        |          |                 | ✅    | 🚫          | 🚫             | ✅                | 🚫                | ✅     |
+| Apple Podcasts | ✅        |          | ⚠️               | ✅    | 🚫          | 🚫             | ✅                | 🚫                | ✅     |
 | RSSRadio       | ✅        |          |                 | ✅    | ✅          | ✅             | 🚫                | ✅                | ✅     |
-| Player FM      |          |          |                 |      |            |               |                  |                  |       |
+| Player FM      |          |          | 🚫               |      |            |               |                  |                  |       |
 | Breaker        |          |          |                 |      |            |               |                  |                  |       |
 
 ## Controls and Downloads
