@@ -48,8 +48,8 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Procast        |             |            |            |               |            |            |                   |                         |                        |
 | Apple Podcasts | ✅           |            | ✅          |               | 🚫          | 🚫          | ✅                 | ⚠️                       | ✅                      |
 | RSSRadio       | 🚫           | ✅          | ✅          |               | ✅          | ✅          | ✅                 | 🚫                       | ✅                      |
-| Player FM      |             |            |            |               |            |            |                   |                         |                        |
-| Breaker        |             |            |            |               |            |            |                   |                         |                        |
+| Player FM      |             |            |            |               |            | ✅💲         | ✅💲                |                         |                        |
+| Breaker        |             |            |            |               |            |            | ✅                 |                         |                        |
 
 ## File Formats, Devices, and Subscriptions
 
@@ -78,7 +78,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Procast        |                |            |            |                 |               |            |                  |               |                 |
 | Apple Podcasts | ✅              |            |            | ✅               | ✅             | ✅          | 🚫                | ✅             | 🚫               |
 | RSSRadio       | ✅              | ✅          |            | 🚫               | ✅             | ✅          | ✅                | ✅             | 🚫               |
-| Player FM      |                |            |            |                 |               |            |                  |               |                 |
+| Player FM      |                |            |            |                 |               | ✅          |                  |               |                 |
 | Breaker        |                |            |            |                 |               |            |                  |               |                 |
 
 ## Sync and Import / Export
@@ -93,7 +93,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Procast          |                   |            |                   |             |             |               |           |
 | Apple Podcasts   | ✅                 | iCloud     | ✅                 | 🚫           | 🚫           | ✅       |           |
 | RSSRadio | ✅                 | iCloud     | ✅                 | ✅           | ✅           | ✅        |           |
-| Player FM      |                   |            |                  |            |            |         |           |
+| Player FM      | ✅💲 |            |                  |            |            |         |           |
 | Breaker    |                   |            |                   |             |             |               |           |
 
 ## Other
@@ -108,8 +108,8 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Procast        |           |              |              |                      |                              |                                        |                                                        |
 | Apple Podcasts | 🚫         | ✅            | ⚠️            | ✅                    | ✅                            | pcast://                               | [Q70058728](https://www.wikidata.org/wiki/Q70058728)   |
 | RSSRadio       |           |              | ✅            | ✅                    | ⚠️                            | rssradio://                            |                                                        |
-| Player FM      |           |              |              |                      |                              |                                        |                                                        |
-| Breaker        |           |              |              |                      |                              | podcat://                              |                                                        |
+| Player FM      | $40 /yr   |              |              |                      |                              |                                        |                                                        |
+| Breaker        |           |              |              |                      |                              |                                        |                                                        |
 
 1. 50% off first year
 
