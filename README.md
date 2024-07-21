@@ -38,18 +38,18 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 
 ## Playback and Playlists
 
-|                | Sleep Timer | Skip Quiet | Play Speed | Gap-less Play | Vol. Boost | Book marks | Personal Playlist | Personal Smart Playlist | Predef. Smart Playlist |
-| -------------- | ----------- | ---------- | ---------- | ------------- | ---------- | ---------- | ----------------- | ----------------------- | ---------------------- |
-| Overcast       | ✅           | ✅          | ✅          | ✅             | ✅          |            | ⚠️                 | ⚠️                       |                        |
-| Castro         | ✅           |            | ✅          | ✅             | ✅          | ✅💲         | ✅                 | ✅                       | ✅                      |
-| Downcast       | ✅           |            | ✅          | 🚫             | ✅          | 🚫          | ✅                 | ✅                       | ✅                      |
-| iCatcher!      | ✅           |            | ✅          |               | 🚫          | ✅          | ✅                 | ✅                       | ✅                      |
-| Pocket Casts   | ✅           |            | ✅          | ✅             | 🚫          | 🚫          | ✅                 | ✅                       | ✅                      |
-| Procast        |             |            |            |               |            |            |                   |                         |                        |
-| Apple Podcasts | ✅           |            | ✅          |               | 🚫          | 🚫          | ✅                 | ⚠️                       | ✅                      |
-| RSSRadio       | 🚫           | ✅          | ✅          |               | ✅          | ✅          | ✅                 | 🚫                       | ✅                      |
-| Player FM      |             |            |            |               |            | ✅💲         | ✅💲                |                         |                        |
-| Breaker        |             |            |            |               |            |            | ✅                 |                         |                        |
+|                | Sleep Timer | Trim Silence | Play Speed | Vol. Boost | Book marks | Personal Playlist | Personal Smart Playlist | Predef. Smart Playlist |
+| -------------- | ----------- | ------------ | ---------- | ---------- | ---------- | ----------------- | ----------------------- | ---------------------- |
+| Overcast       | ✅           | ✅            | ✅          | ✅          |            | ⚠️                 | ⚠️                       |                        |
+| Castro         | ✅           | ✅            | ✅          | ✅          | ✅💲         | ✅                 | ✅                       | ✅                      |
+| Downcast       | ✅           |              | ✅          | ✅          | 🚫          | ✅                 | ✅                       | ✅                      |
+| iCatcher!      | ✅           |              | ✅          | 🚫          | ✅          | ✅                 | ✅                       | ✅                      |
+| Pocket Casts   | ✅           | ✅            | ✅          | 🚫          | ✅💲         | ✅                 | ✅                       | ✅                      |
+| Procast        |             |              |            |            |            |                   |                         |                        |
+| Apple Podcasts | ✅           | 🚫            | ✅          | 🚫          | 🚫          | ✅                 | ⚠️                       | ✅                      |
+| RSSRadio       | 🚫           |              | ✅          | ✅          | ✅          | ✅                 | 🚫                       | ✅                      |
+| Player FM      |             |              |            |            | ✅💲         | ✅💲                |                         |                        |
+| Breaker        |             |              |            |            |            | ✅                 |                         |                        |
 
 ## File Formats, Devices, and Subscriptions
 
@@ -70,8 +70,8 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 
 |                | Air-Pod Cntrl. | Skip Intro | Skip Outro | Play DL'ing Ep. | Parallel DL's | Ep. stream | Pass. pro-tected | Auto. DL Opts | Disk Space Mgmt |
 | -------------- | -------------- | ---------- | ---------- | --------------- | ------------- | ---------- | ---------------- | ------------- | --------------- |
-| Overcast       | ✅              | ✅          | ✅          | 🚫               | ✅             | 🚫          | ✅                |               | 🚫               |
-| Castro         | ✅              |            | 🚫          | ✅               | ✅             | ✅          |                  | ✅             | ✅               |
+| Overcast       | ✅              | ⚠️          | ✅          | 🚫               | ✅             | 🚫          | ✅                |               | 🚫               |
+| Castro         | ✅              | ✅          | 🚫          | ✅               | ✅             | ✅          |                  | ✅             | ✅               |
 | Downcast       | ✅              | ✅          |            | ✅               | ✅             | ✅          | ✅                | ✅             | ⚠️               |
 | iCatcher!      | ✅              | ✅          |            | ✅               | ✅             | ✅          | ✅                | ✅             | ⚠️               |
 | Pocket Casts   | ✅              | ✅          |            | ✅               | ✅             | ✅          | 🚫                | ✅             | ✅               |
@@ -98,18 +98,18 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 
 ## Other
 
-|                | Price     | Tran-scripts | Social Share | Per Podcast Settings | Add Ep. to Playlist w/o sub. | App subscription URI scheme            | Wikidata ID                                            |
-| -------------- | --------- | ------------ | ------------ | -------------------- | ---------------------------- | -------------------------------------- | ------------------------------------------------------ |
-| Overcast       | $10 /yr   | 🚫            |              | ✅                    |                              | overcast://x-callback-url/add?url=     | [Q20707973](https://www.wikidata.org/wiki/Q20707973)   |
-| Castro         | $25 /yr   |              | ✅            | ✅                    | ✅                            | castro://subscribe/                    | [Q100576609](https://www.wikidata.org/wiki/Q100576609) |
-| Downcast       |           |              | ✅            | ✅💲                   | ✅                            | downcast://                            |                                                        |
-| iCatcher!      |           |              | ✅            | ✅                    |                              | icatcher://                            |                                                        |
-| Pocket Casts   | $40 /yr ¹ |              | ✅            | ✅                    | 🚫                            | pktc://subscribe/feed-url-without-http |                                                        |
-| Procast        |           |              |              |                      |                              |                                        |                                                        |
-| Apple Podcasts | 🚫         | ✅            | ⚠️            | ✅                    | ✅                            | pcast://                               | [Q70058728](https://www.wikidata.org/wiki/Q70058728)   |
-| RSSRadio       |           |              | ✅            | ✅                    | ⚠️                            | rssradio://                            |                                                        |
-| Player FM      | $40 /yr   |              |              |                      |                              |                                        |                                                        |
-| Breaker        |           |              |              |                      |                              |                                        |                                                        |
+|                | Price     | Multi-Plat | Tran-scripts | Social Share | Per Podcast Settings | Add Ep. to Playlist w/o sub. | App subscription URI scheme            | Wikidata ID                                            |
+| -------------- | --------- | ---------- | ------------ | ------------ | -------------------- | ---------------------------- | -------------------------------------- | ------------------------------------------------------ |
+| Overcast       | $10 /yr   | Web        | 🚫            |              | ✅                    |                              | overcast://x-callback-url/add?url=     | [Q20707973](https://www.wikidata.org/wiki/Q20707973)   |
+| Castro         | $25 /yr   | 🚫          |              | ✅            | ✅                    | ✅                            | castro://subscribe/                    | [Q100576609](https://www.wikidata.org/wiki/Q100576609) |
+| Downcast       |           |            |              | ✅            | ✅💲                   | ✅                            | downcast://                            |                                                        |
+| iCatcher!      |           |            |              | ✅            | ✅                    |                              | icatcher://                            |                                                        |
+| Pocket Casts   | $40 /yr ¹ | ✅🚀         |              | ✅            | ✅                    | 🚫                            | pktc://subscribe/feed-url-without-http |                                                        |
+| Procast        |           |            |              |              |                      |                              |                                        |                                                        |
+| Apple Podcasts | 🚫         | Mac        | ✅            | ⚠️            | ✅                    | ✅                            | pcast://                               | [Q70058728](https://www.wikidata.org/wiki/Q70058728)   |
+| RSSRadio       |           |            |              | ✅            | ✅                    | ⚠️                            | rssradio://                            |                                                        |
+| Player FM      | $40 /yr   |            |              |              |                      |                              |                                        |                                                        |
+| Breaker        |           |            |              |              |                      |                              |                                        |                                                        |
 
 1. 50% off first year
 
