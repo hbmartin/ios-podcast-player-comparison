@@ -23,25 +23,27 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 
 ## Chapters and Notes
 
-|                | Paged Feeds | Chap. Mark | MP3 Chap. Mark | Auto Chap. | Chap. Dura-tion | Chap. Start Time | Chap. End Time | Chap. Image | Notes for DL'd | Notes w/o DL |
-| -------------- | ----------- | ---------- | -------------- | ---------- | --------------- | ---------------- | -------------- | ----------- | -------------- | ------------ |
-| Overcast       |             | ✅          | ✅              | 🚫          | ✅               | ✅                |                | ✅           | ✅              |              |
-| Castro         |             | ✅          | ✅              | 🚫          | ✅               |                  |                | ✅           | ✅              | ✅            |
-| Downcast       | 🚫           | ✅          | ✅              | 🚫          | ✅               | ✅                | 🚫              | ✅           | ✅              | ✅            |
-| iCatcher!      |             | ✅          | ✅              | 🚫          | ✅               | ✅                | 🚫              |             | ✅              | ✅            |
-| Pocket Casts   | ✅           | ✅          | 🚫              |            | ✅               | 🚫                | 🚫              | ✅           | ✅              | ✅            |
-| Procast        |             |            |                |            |                 |                  |                |             |                |              |
-| Apple Podcasts |             | ⚠️          | 🚫              | 🚫          | 🚫               | 🚫                | 🚫              | ✅           | ✅              | 🚫            |
-| RSSRadio       |             | ✅          |                | 🚫          | 🚫               | ✅                | 🚫              | ✅           | ✅              | ✅            |
-| Player FM      |             |            |                |            |                 |                  |                |             |                |              |
-| Breaker        |             |            |                |            |                 |                  |                |             |                |              |
+|                | Paged Feeds | Chap. Mark | MP3 Chap. Mark | Choose Chaps. | Chap. Dura-tion | Chap. Start Time | Chap. End Time | Chap. Image | Notes for DL'd | Notes w/o DL |
+| -------------- | ----------- | ---------- | -------------- | ------------- | --------------- | ---------------- | -------------- | ----------- | -------------- | ------------ |
+| Overcast       |             | ✅          | ✅              | 🚫             | ✅               | ✅                |                | ✅           | ✅              |              |
+| Castro         |             | ✅💲         | ✅              | ✅💲            | ✅               | 🚫                | 🚫              | ✅           | ✅              | ✅            |
+| Downcast       | 🚫           | ✅          | ✅              |               | ✅               | ✅                | 🚫              | ✅           | ✅              | ✅            |
+| iCatcher!      |             | ✅          | ✅              |               | ✅               | ✅                | 🚫              |             | ✅              | ✅            |
+| Pocket Casts   | ✅           | ✅          | 🚫              | ✅💲            | ✅               | 🚫                | 🚫              | ✅¹          | ✅              | ✅            |
+| Procast        |             |            |                |               |                 |                  |                |             |                |              |
+| Apple Podcasts |             | ⚠️          | 🚫              | 🚫             | 🚫               | 🚫                | 🚫              | ✅           | ✅              | 🚫            |
+| RSSRadio       |             | ✅          |                |               | 🚫               | ✅                | 🚫              | ✅           | ✅              | ✅            |
+| Player FM      |             |            |                |               |                 |                  |                |             |                |              |
+| Breaker        |             |            |                |               |                 |                  |                |             |                |              |
+
+1. Does not display image on lock screen.
 
 ## Playback and Playlists
 
 |                | Sleep Timer | Trim Silence | Play Speed | Vol. Boost | Book marks | Personal Playlist | Personal Smart Playlist | Predef. Smart Playlist |
 | -------------- | ----------- | ------------ | ---------- | ---------- | ---------- | ----------------- | ----------------------- | ---------------------- |
 | Overcast       | ✅           | ✅            | ✅          | ✅          |            | ⚠️                 | ⚠️                       |                        |
-| Castro         | ✅           | ✅            | ✅          | ✅          | ✅💲         | ✅                 | ✅                       | ✅                      |
+| Castro         | ✅           | ✅💲           | ✅          | ✅💲         | ✅💲         | ✅                 | ✅                       | ✅                      |
 | Downcast       | ✅           |              | ✅          | ✅          | 🚫          | ✅                 | ✅                       | ✅                      |
 | iCatcher!      | ✅           |              | ✅          | 🚫          | ✅          | ✅                 | ✅                       | ✅                      |
 | Pocket Casts   | ✅           | ✅            | ✅          | ✅          | ✅💲         | ✅                 | ✅                       | ✅                      |
