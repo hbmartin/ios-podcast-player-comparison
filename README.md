@@ -76,7 +76,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Castro         | ✅              | ✅          | 🚫          | ✅               | ✅             | ✅          |                  | ✅             | ✅               |
 | Downcast       | ✅              | ✅          |            | ✅               | ✅             | ✅          | ✅                | ✅             | ⚠️               |
 | iCatcher!      | ✅              | ✅          |            | ✅               | ✅             | ✅          | ✅                | ✅             | ⚠️               |
-| Pocket Casts   | ✅              | ✅          |            | ✅               | ✅             | ✅          | 🚫                | ✅             | ✅               |
+| Pocket Casts   | ✅              | ✅          | ✅          | ✅               | ✅             | ✅          | 🚫                | ✅             | ✅               |
 | Procast        |                |            |            |                 |               |            |                  |               |                 |
 | Apple Podcasts | ✅              |            |            | ✅               | ✅             | ✅          | 🚫                | ✅             | 🚫               |
 | RSSRadio       | ✅              | ✅          |            | 🚫               | ✅             | ✅          | ✅                | ✅             | 🚫               |
