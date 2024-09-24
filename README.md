@@ -102,19 +102,18 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 
 |                | Price     | Multi-Plat | Tran-scripts | Clip Share | Per Podcast Settings | App subscription URI scheme            | Wikidata ID                                            |
 | -------------- | --------- | ---------- | ------------ | ---------- | -------------------- | -------------------------------------- | ------------------------------------------------------ |
-| Overcast       | $10 /yr   | Web        | 🚫            | ✅          | ✅                    | overcast://x-callback-url/add?url=     | [Q20707973](https://www.wikidata.org/wiki/Q20707973)   |
-| Castro         | $25 /yr   | 🚫          |              | ✅          | ✅                    | castro://subscribe/                    | [Q100576609](https://www.wikidata.org/wiki/Q100576609) |
-| Downcast       |           |            |              |            | ✅💲                   | downcast://                            |                                                        |
+| Overcast       | $10 /yr   | Web        | 🚫            | ✅        | ✅                  | overcast://x-callback-url/add?url=     | [Q20707973](https://www.wikidata.org/wiki/Q20707973)   |
+| Castro         | $25 /yr   | 🚫          |              | ✅        | ✅                   | castro://subscribe/                    | [Q100576609](https://www.wikidata.org/wiki/Q100576609) |
+| Downcast       |           |            |              |            | ✅💲                  | downcast://                           |                                                        |
 | iCatcher!      |           |            |              |            | ✅                    | icatcher://                            |                                                        |
-| Pocket Casts   | $40 /yr ¹ | ✅🚀         |              | 🚫²         | ✅                    | pktc://subscribe/feed-url-without-http |                                                        |
-| Procast        |           |            |              |            |                      |                                        |                                                        |
-| Apple Podcasts | 🚫         | Mac        | ✅            | 🚫          | ✅                    | pcast://                               | [Q70058728](https://www.wikidata.org/wiki/Q70058728)   |
+| Pocket Casts   | $40 /yr ¹ | ✅🚀         |            | ✅        | ✅                    | pktc://subscribe/feed-url-without-http |                                                        |
+| Procast        |           |            |              |            |                       |                                        |                                                        |
+| Apple Podcasts | 🚫         | Mac        | ✅          | 🚫        | ✅                    | pcast://                               | [Q70058728](https://www.wikidata.org/wiki/Q70058728)   |
 | RSSRadio       |           |            |              |            | ✅                    | rssradio://                            |                                                        |
-| Player FM      | $40 /yr   |            |              |            |                      |                                        |                                                        |
-| Breaker        |           |            |              |            |                      |                                        |                                                        |
+| Player FM      | $40 /yr   |            |              |            |                       |                                        |                                                        |
+| Breaker        |           |            |              |            |                       |                                        |                                                        |
 
 1. 50% off first year
-2. July 2024: Technically available but requires manually modifying the URL. See [this Reddit post](https://www.reddit.com/r/pocketcasts/comments/1ebjx15/clip_feature_available_in_pocketcasts/)
 
 ## Acronyms
 
