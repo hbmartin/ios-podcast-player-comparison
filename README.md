@@ -87,7 +87,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 
 |                | Cross Device Sync | Sync Tech. | Import Music Lib. | OPML Export | OPML Import | Pod-cast Dir. | Paged Feed |
 | -------------- | ----------------- | ---------- | ----------------- | ----------- | ----------- | ------------- | ---------- |
-| Overcast       |                   |            |                   | 🚫           | 🚫           |               |            |
+| Overcast       |                   |            |                   | ✅           | 🚫           |               |            |
 | Castro         | 🚫                 |            |                   | ✅           | ✅           | ✅             |            |
 | Downcast       | ✅                 | iCloud     | ✅                 | ✅           | ✅           | ✅             | 🚫          |
 | iCatcher!      | ✅                 | iCloud     |                   | ✅           | ✅           | ✅             |            |
@@ -102,7 +102,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 
 |                | Price     | Multi-Plat | Tran-scripts | Clip Share | Per Podcast Settings | App subscription URI scheme            | Wikidata ID                                            |
 | -------------- | --------- | ---------- | ------------ | ---------- | -------------------- | -------------------------------------- | ------------------------------------------------------ |
-| Overcast       | $10 /yr   | Web        | 🚫            | ✅        | ✅                  | overcast://x-callback-url/add?url=     | [Q20707973](https://www.wikidata.org/wiki/Q20707973)   |
+| Overcast       | $18 /yr   | Web        | 🚫            | ✅        | ✅                  | overcast://x-callback-url/add?url=     | [Q20707973](https://www.wikidata.org/wiki/Q20707973)   |
 | Castro         | $25 /yr   | 🚫          |              | ✅        | ✅                   | castro://subscribe/                    | [Q100576609](https://www.wikidata.org/wiki/Q100576609) |
 | Downcast       |           |            |              |            | ✅💲                  | downcast://                           |                                                        |
 | iCatcher!      |           |            |              |            | ✅                    | icatcher://                            |                                                        |
