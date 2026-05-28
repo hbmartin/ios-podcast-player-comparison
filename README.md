@@ -172,7 +172,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | iCatcher! | $4.99 one-time³³ | iOS / watchOS | 🚫 | 🚫 | ✅ | `icatcher://` | — |
 | Pocket Casts | $39.99/yr Plus, $99.99/yr Patron³⁴ | iOS / Android / Web / Mac / Windows / Wear / CarPlay³⁵ | ✅💲³⁶ | ✅ | ✅ | `pktc://subscribe/...` | [Q99620573](https://www.wikidata.org/wiki/Q99620573) |
 | Procast | Free, optional tip IAPs | iOS / Android | 🚫 | ✅ (cuts) |  |  | — |
-| Apple Podcasts | Free (Apple Podcasts Subscriptions sold per show) | macOS / iOS / iPadOS / web³⁷ | ✅³⁷ | ✅³⁸ | ✅ | `pcast://` | [Q70058728](https://www.wikidata.org/wiki/Q70058728) |
+| Apple Podcasts | Free (Apple Podcasts Subscriptions sold per show) | macOS / iOS / iPadOS / web⁴⁷ | ✅³⁷ | ✅³⁸ | ✅ | `pcast://` | [Q70058728](https://www.wikidata.org/wiki/Q70058728) |
 | RSSRadio | Free + $17.99/yr Premium IAP³⁹ | iOS / Apple Watch | 🚫 |  | ✅ | `rssradio://` | — |
 | Player FM | $39.99/yr Premium⁴⁰ | iOS / Android / Web / Apple Watch / CarPlay | ⚠️⁴¹ |  |  |  | [Q88271444](https://www.wikidata.org/wiki/Q88271444) |
 | Snipd | $6.99/mo on annual plan ($83.88/yr)⁴² | iOS / Android | ✅ (AI) | ✅ |  |  | — |
@@ -199,6 +199,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 44. Spotify raised US Premium Individual pricing from $11.99 to $12.99/mo starting February 2026 (Spotify Newsroom, Jan 15, 2026: "Occasional updates to pricing across our markets reflect the value that Spotify delivers"; CNBC, Jan 15, 2026: "The monthly price will go from $11.99 to $12.99 starting in February").
 45. Fountain Premium is £2.99/month per support.fountain.fm/article/11-premium (last updated April 18, 2024: "Subscribe to Fountain Premium for just £2.99 a month to unlock a growing list of features"); no annual plan published.
 46. Podverse Premium is $18/year after a 3-month free trial (podverse.fm/membership).
+47. Apple Podcasts web player launched in April 2019 (9to5Mac, *Apple launches web version of Apple Podcasts ahead of standalone Mac app*, April 9, 2019; MacStories).
 
 ## Acronyms
 
