@@ -240,7 +240,7 @@ Sources used to compile this update (2024–2026):
 - Castro Blog — *A Fresh Start Under New Ownership* (Jan 31, 2024)
 - Fountain Support — *Premium* (article 11, last updated April 18, 2024)
 - Official App Store listings for each app (current versions, May 2026)
-- Official websites: overcast.fm, castro.fm, downcastapp.com, joeisanerd.com, pocketcasts.com, rssrad.io, player.fm, snipd.com, castbox.fm, fountain.fm, podverse.fm
+- Official websites: [overcast.fm](https://overcast.fm), [castro.fm](https://castro.fm), [downcastapp.com](https://downcastapp.com), [joeisanerd.com](https://joeisanerd.com), [pocketcasts.com](https://pocketcasts.com), [rssrad.io](https://rssrad.io), [player.fm](https://player.fm), [snipd.com](https://snipd.com), [castbox.fm](https://castbox.fm), [fountain.fm](https://fountain.fm), [podverse.fm](https://podverse.fm)
 - This document started as a copy of [Podlove's Matrix](https://docs.google.com/spreadsheets/d/1c2L14UVH1xtN4iDG4awheLbMgPCQgaKEamUauWs1gps/edit) (now outdated).
 
 ## Appendix: Discontinued Apps
