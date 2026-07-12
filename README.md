@@ -56,6 +56,8 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Podverse | ✅¹⁰ | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ | ✅ |
 | Podurama | ✅💲⁷¹ |  |  |  |  |  |  | ✅ | ✅ |
 | Superphonic | ✅⁷² |  |  |  |  |  |  | ✅ | ✅ |
+| Metacast | ✅⁷³ |  |  |  |  |  |  | ✅ | ✅ |
+| Castamatic | ✅⁷⁵ | ✅ | ⚠️⁷⁶ |  | ✅ |  | ✅ | ✅ | ✅ |
 
 1. Overcast added chapter art and richer chapter handling alongside transcripts in the 2026.x line.
 2. Castro Plus required for chapter selection / playback enhancements.
@@ -88,6 +90,8 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Podverse | ✅ |  |  |  | ✅💲 | ✅💲 |  | ✅ |
 | Podurama |  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |  |
 | Superphonic | ✅ |  | ✅⁵² |  |  | ⚠️⁵² |  |  |
+| Metacast | ✅ | 🚫 | ✅ |  | ✅ | ✅💲 | 🚫 | ✅ |
+| Castamatic | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ |  |
 
 11. Overcast's "Voice Boost" and "Smart Speed" are signature features (Marco Arment, Overcast.fm).
 12. Pocket Casts Plus required for Bookmarks (per 9to5Google).
@@ -115,6 +119,8 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Podverse | ✅¹⁹ | ✅ |  | ✅ |  | ✅💲 |  | ✅ | ✅ |
 | Podurama |  | ✅ | ⚠️ | ✅ |  | ✅ |  |  | ✅ |
 | Superphonic |  | ✅ | ✅ | ✅ |  | ✅ |  |  |  |
+| Metacast |  | ⚠️⁷⁴ |  | 🚫 |  | 🚫⁷⁴ |  |  |  |
+| Castamatic | ✅ | ✅ | ✅ | ✅ |  | ✅⁷⁶ |  |  |  |
 
 16. iCatcher! release notes (Dec 2024) reference CarPlay reliability fixes; support is current.
 17. Player FM added CarPlay support in a Maple Media release per the iOS App Store listing.
@@ -141,6 +147,8 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Podverse | ✅ |  |  | ✅ |  | ✅ |  | ✅ |  |
 | Podurama | ✅ |  |  |  |  | ✅ |  | ✅ | ⚠️ |
 | Superphonic | ✅ |  |  |  |  | ✅ |  |  |  |
+| Metacast | ✅ |  |  |  |  | ✅ | ✅💲 |  |  |
+| Castamatic | ✅ | ✅ | ✅ |  |  | ✅ | ✅ | ✅ | ✅ |
 
 20. Downcast supports per-podcast intro/outro skip ranges (App Store reviews).
 21. RSSRadio explicitly supports password-protected feeds, including 1Password (App Store listing).
@@ -169,6 +177,8 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Podverse | ✅💲 | Proprietary |  | ✅ | ✅ | ✅²⁸ |  |
 | Podurama | ✅ | Proprietary |  |  | ✅ | ✅⁵⁰ |  |
 | Superphonic | ✅ |  |  |  |  | ✅ |  |
+| Metacast | ✅ | Proprietary |  | 🚫 | ⚠️⁷⁴ | ✅ |  |
+| Castamatic | ✅ | iCloud | ⚠️ | ✅ | ✅ | ✅⁷⁶ |  |
 
 26. Bluck Apps stated in January 2024 that cross-device sync is on the post-stabilization roadmap; full sync is still partial/in development as of recent releases.
 27. Fountain OPML import has been reported as flaky by users (Apple App Store reviews).
@@ -194,6 +204,8 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Podverse | Free; Premium $18/yr⁴⁶ | iOS / Android / F-Droid / Web | ✅ | ✅ (any length) | ✅ |  | — |
 | Podurama | $49.99 one-time Premium⁵⁰ | iOS / Android / Web / Windows / macOS | ⚠️⁵¹ |  |  |  | — |
 | Superphonic | Free + $3.99/mo Premium⁵² | iOS / macOS (M1+) / visionOS | ✅ (AI)⁵² |  | ✅ |  | — |
+| Metacast | $19.99/yr or $1.99/mo Premium⁷³ | iOS / Android / Web (read-only) | ✅💲⁷³ | ⚠️⁷⁴ |  |  | — |
+| Castamatic | Free + $14.99/yr Premium⁷⁶ | iOS / watchOS / CarPlay / macOS (M1+) | ✅ (AI)⁷⁵ | 🚫 | ✅ | `castamatic://` | — |
 
 29. Overcast Premium increased from $9.99/yr to $14.99/yr on November 21, 2024 — first price change in eight years (Marco Arment, Mastodon; Podcast News Daily).
 30. Overcast transcripts shipped in version 2026.4 (April 8, 2026), powered by Marco Arment's rack of 48 Mac minis (AppleInsider, "A rack of 48 Mac minis now powers Overcast's podcast transcripts," April 7, 2026; 9to5Mac; MJTsai blog). Arment told *Curb Cuts* (April 10, 2026): "The breakthrough that finally made [transcripts] feasible at my scale was the new Apple speech-recognition API in the 26-series OSes last year."
@@ -222,7 +234,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 
 ## AI Features
 
-AI feature notability varies: ✅ in *AI Transcripts* / *AI Chapters* means the app generates them itself, while ⚠️ means it only displays creator-provided ones.
+In the *AI Transcripts* and *AI Chapters* columns, ✅ means the app generates them itself; ⚠️ means it only displays creator-provided ones (or, for Castbox, that the claim is uncorroborated — see notes).
 
 |  | AI Transcripts | Transcript Search | AI Chapters | AI Summaries | AI Highlights | Ask AI / Chat | AI Discovery | AI Translation |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -242,6 +254,8 @@ AI feature notability varies: ✅ in *AI Transcripts* / *AI Chapters* means the 
 | Podverse | ⚠️⁷⁰ |  | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
 | Podurama | ⚠️⁵¹ | 🚫 | ✅💲⁷¹ | ✅💲⁷¹ | ✅⁷¹ | ⚠️⁷¹ | ✅⁷¹ | 🚫 |
 | Superphonic | ✅⁷² |  | ✅⁷² | 🚫 | 🚫 | 🚫 |  | 🚫 |
+| Metacast | ✅💲⁷³ | ✅ | ✅💲⁷³ | ✅💲⁷³ | 🚫 | 🚫⁷³ | 🚫 | 🚫 |
+| Castamatic | ✅⁷⁵ | ✅ | ✅⁷⁵ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
 
 53. Overcast transcripts are free for all users since v2026.4 (April 2026), generated with Apple's 26-series speech APIs on Marco Arment's 48-Mac-mini cluster (on-device on iOS 26 for private feeds; creator-provided VTT transcripts are also ingested). An audio-fingerprinting step re-syncs transcripts when dynamic ad insertion shifts the audio (AppleInsider; 9to5Mac, April 2026).
 54. Arment has named transcript search, automatic chapters, and AI summaries as potential next steps built on transcripts, but none had shipped as of July 2026 (AppleInsider; Podnews).
@@ -263,6 +277,10 @@ AI feature notability varies: ✅ in *AI Transcripts* / *AI Chapters* means the 
 70. Podverse deliberately displays only creator-provided Podcasting 2.0 transcripts and chapters; there is no AI generation anywhere in its open-source stack (podverse.fm; GitHub).
 71. Podurama offers AI episode summaries and auto-generated chapters (Premium), "Trending Snippets" surfacing AI-picked top moments, and an AI chatbot for finding shows and episodes by topic — a discovery tool rather than per-episode Q&A (App Store release notes v6.4, April 2026; Cult of Mac).
 72. Superphonic generates AI transcripts and chapter/topic lists for every public podcast; the free tier gets the first few minutes of each transcript and the first five chapters per episode, and Premium removes the caps (superphonic.fm; docs.superphonic.fm).
+73. Metacast (founded by ex-Google/AWS PMs, launched September 2024) generates a transcript on demand for any episode — creator-provided Podcasting 2.0 transcripts are used when present (October 2025) — with within-episode transcript search and Markdown export; AI chapters (March 2025, beta) and AI summaries (May 2025) are Premium. The free tier shows roughly the first 10% of a transcript and blurs the rest; Premium dropped from $4.99 to $1.99/mo ($19.99/yr) in October 2024. Its FAQ suggests pasting transcripts into ChatGPT/Claude for Q&A rather than offering in-app chat (metacast.app blog/FAQ).
+74. Metacast gaps: no dedicated CarPlay interface (now-playing metadata only), no native iPad app, and no push notifications — new episodes land in a "Podcast Inbox" with two-week expiry; OPML import is a manual, support-assisted service for Premium subscribers with no OPML export; episode sharing is transcript-text quotes with timestamped deep links rather than audio clips (metacast.app FAQ/changelog).
+75. Castamatic 13 (April 2026) added on-device "Magic Transcript" (Apple's Speech framework — any downloaded episode, offline, automatic language detection) and "Magic Chapters" (a local sentence-embedding model detects topic shifts, and Apple's on-device Foundation Models write the chapter titles) — generated only when creators don't provide them, with nothing leaving the device; both are free. Its ML "Auto-Leveler" voice boost dates back to 2018 (castamatic.com blog).
+76. Castamatic (indie developer Franco Solerio, since 2015) is among the most complete Podcasting 2.0 clients on iOS: Podping-based near-instant new-episode notifications, Value-for-Value boosts via Nostr Wallet Connect, live episodes, cross-app comments, and the Podcast Index as its directory. It can auto-skip chapters matching per-show keywords; Premium ($14.99/yr) only removes the house banner (castamatic.com; Podnews).
 
 ## Acronyms
 
@@ -298,6 +316,7 @@ Sources used to compile this update (2024–2026):
 - Transistor.fm — *Most Popular Podcast Apps for iOS and Android (2026)*
 - TWiT.tv — *Which Podcast App Should You Use on iOS?* (iOS Today ep. 773, Oct 2025)
 - Whop — *Top 20 best podcast apps for audio lovers in 2026*
+- Castamatic Blog — *Castamatic 13: Magic Transcript and Magic Chapters* (April 20, 2026) and *Nostr Wallet Connect* (Feb 21, 2026)
 - Castro Blog — *Transcript Tag Support* (Feb 2025), *Pod Seek* (Mar 2026), and *Hiding Inception Point AI* (Dec 2025)
 - Cult of Mac — *Podurama app uses AI to make podcasts better than ever* (Nov 27, 2023)
 - Curb Cuts — *Transcripts, with Marco Arment* (April 10, 2026)
@@ -306,6 +325,7 @@ Sources used to compile this update (2024–2026):
 - Fountain Blog — *Fountain 0.7: Transcripts* (May 2023) and *Fountain 1.2: Episode Summaries* (May 2025)
 - Geeky Gadgets — *4 New Podcast Apps You Need to Know About* (April 15, 2025)
 - MacRumors — *Apple Releases iOS 26.2* (Dec 12, 2025)
+- Metacast Blog — launch announcement (Sept 2024), *Episode chapters* (March 24, 2025), *v1.20: podcast summaries* (May 28, 2025), and *Creator-provided transcripts on mobile* (Oct 8, 2025)
 - Pocket Casts Blog — *Generated transcripts are here* (April 29, 2025), *Highlighted Transcripts* (June 24, 2026), and *AI generated chapters are here* (July 7, 2026)
 - Podnews — *New podcast apps* (directory listing for Podurama and other newcomers)
 - Snipd Blog — *Chat with your episodes* (November 2024)
