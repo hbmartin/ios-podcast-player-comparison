@@ -1,16 +1,16 @@
 # iOS Podcast Player App Comparison
 
-*Last updated: May 2026*
+*Last updated: July 2026*
 
 🔔 **Major changes since the last revision:**
 
-- **Breaker** was acquired by Twitter in Jan 2021 and shut down — moved to the *Discontinued Apps* appendix.
-- **Castro** was sold by Tiny to indie studio **Bluck Apps** in January 2024 after a public near-death scare. It is alive and being actively maintained.
-- **Apple Podcasts** added full transcripts (iOS 17.4, March 2024) and AI-generated chapters + timed links (iOS 26.2, Nov 2025).
-- **Overcast** added transcripts in version 2026.4 (April 2026), powered by a rack of 48 Mac minis running Apple's speech-recognition API from the 26-series OSes.
-- **Pocket Casts** made its web and desktop apps free for everyone (March 2025) and shipped a major v8.0 release in November 2025.
-- **Snipd**, **Castbox**, **Spotify**, **Fountain**, and **Podverse** have been added as currently-notable iOS podcast players.
-- **Procast** retained in the table — it is still on the App Store but receives only occasional updates and limited press coverage.
+- New **[AI Features](#ai-features)** table comparing auto-generated transcripts, transcript search, AI chapters, summaries, highlights, in-episode chat, AI discovery, and translation across every app.
+- **Podurama**, **Superphonic**, **Metacast**, and **Castamatic** added to the comparison. **Aisten** and **Neuecast** were evaluated but not added — see the [appendix](#appendix-apps-evaluated-but-not-added).
+- **Pocket Casts** launched AI-generated chapters (July 2026 — Android/web/desktop first, iOS "coming very soon") and word-level highlighted transcripts (June 2026).
+- **Spotify** added Premium AI Q&A for podcasts, AI-generated "Personal Podcasts" briefings, and prompted playlists for podcasts (May 2026); its 2023 voice-translation pilot appears dormant.
+- **Snipd** shipped "Chat with Episodes" (November 2024) and an AI DJ highlights feed (2026).
+- **Correction:** Castro (since February 2025) and iCatcher! display creator-provided Podcasting 2.0 transcripts — both were previously listed as having no transcript support. Neither generates transcripts.
+- Castro's team also launched **Pod Seek** (March 2026), a separate AI podcast Q&A companion app built on Apple's foundation models.
 
 Please help keep this updated by [leaving a comment](https://github.com/hbmartin/ios-podcast-player-comparison/issues) or by [editing this doc](https://github.com/hbmartin/ios-podcast-player-comparison/edit/main/README.md)!
 
@@ -22,9 +22,11 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 - [Controls and Downloads](#controls-and-downloads)
 - [Sync and Import / Export](#sync-and-import--export)
 - [Other](#other)
+- [AI Features](#ai-features)
 - [Acronyms](#acronyms)
 - [Articles and Reviews](#articles-and-reviews)
 - [Appendix: Discontinued Apps](#appendix-discontinued-apps)
+- [Appendix: Apps Evaluated but Not Added](#appendix-apps-evaluated-but-not-added)
 
 ## Legend
 
@@ -52,6 +54,8 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Spotify | ✅⁸ | ⚠️ | ✅ | ✅ | ✅ |  | 🚫 | ✅ | ✅ |
 | Fountain | ✅⁹ | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ | ✅ |
 | Podverse | ✅¹⁰ | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ | ✅ |
+| Podurama | ✅💲⁷¹ |  |  |  |  |  |  | ✅ | ✅ |
+| Superphonic | ✅⁷² |  |  |  |  |  |  | ✅ | ✅ |
 
 1. Overcast added chapter art and richer chapter handling alongside transcripts in the 2026.x line.
 2. Castro Plus required for chapter selection / playback enhancements.
@@ -60,7 +64,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 5. Pocket Casts Plus required for Chapter Preselection (per 9to5Google, March 2025).
 6. With iOS 26.2, Apple Podcasts auto-generates chapters when creators do not provide them; per-chapter images supported when creators submit them.
 7. Snipd generates AI chapters when creators do not provide them.
-8. Spotify supports creator-supplied chapters on Spotify-exclusive shows; partial support for MP3-tag chapters on RSS shows.
+8. Spotify supports creator-supplied chapters on Spotify-exclusive shows; partial support for MP3-tag chapters on RSS shows. Since September 2025 it also auto-generates chapters for English episodes without creator chapters (Spotify for Creators).
 9. Fountain supports Podcasting 2.0 chapters with per-chapter art.
 10. Podverse is "Podcasting 2.0 certified" — supports chapters, transcripts and cross-app comments natively.
 
@@ -82,6 +86,8 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Spotify | ✅ | 🚫 | ✅ | 🚫 | 🚫 | ✅ | 🚫 | ✅ |
 | Fountain | ✅ | 🚫 | ✅¹⁵ | 🚫 |  | ✅ |  | ✅ |
 | Podverse | ✅ |  |  |  | ✅💲 | ✅💲 |  | ✅ |
+| Podurama |  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |  |
+| Superphonic | ✅ |  | ✅⁵² |  |  | ⚠️⁵² |  |  |
 
 11. Overcast's "Voice Boost" and "Smart Speed" are signature features (Marco Arment, Overcast.fm).
 12. Pocket Casts Plus required for Bookmarks (per 9to5Google).
@@ -107,6 +113,8 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Spotify | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Fountain | ✅ | ✅ |  | ✅ |  | ✅ |  |  | ✅ |
 | Podverse | ✅¹⁹ | ✅ |  | ✅ |  | ✅💲 |  | ✅ | ✅ |
+| Podurama |  | ✅ | ⚠️ | ✅ |  | ✅ |  |  | ✅ |
+| Superphonic |  | ✅ | ✅ | ✅ |  | ✅ |  |  |  |
 
 16. iCatcher! release notes (Dec 2024) reference CarPlay reliability fixes; support is current.
 17. Player FM added CarPlay support in a Maple Media release per the iOS App Store listing.
@@ -131,6 +139,8 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Spotify | ✅ | 🚫 | 🚫 | ✅ | ✅ | ✅ | ✅²⁵ | ✅ | ⚠️ |
 | Fountain | ✅ |  |  | ✅ |  | ✅ |  | ✅ |  |
 | Podverse | ✅ |  |  | ✅ |  | ✅ |  | ✅ |  |
+| Podurama | ✅ |  |  |  |  | ✅ |  | ✅ | ⚠️ |
+| Superphonic | ✅ |  |  |  |  | ✅ |  |  |  |
 
 20. Downcast supports per-podcast intro/outro skip ranges (App Store reviews).
 21. RSSRadio explicitly supports password-protected feeds, including 1Password (App Store listing).
@@ -157,6 +167,8 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Spotify | ✅ | Proprietary | ✅ | 🚫 | 🚫 | ✅ |  |
 | Fountain | ✅ | Proprietary |  | ✅ | ✅²⁷ | ✅ |  |
 | Podverse | ✅💲 | Proprietary |  | ✅ | ✅ | ✅²⁸ |  |
+| Podurama | ✅ | Proprietary |  |  | ✅ | ✅⁵⁰ |  |
+| Superphonic | ✅ |  |  |  |  | ✅ |  |
 
 26. Bluck Apps stated in January 2024 that cross-device sync is on the post-stabilization roadmap; full sync is still partial/in development as of recent releases.
 27. Fountain OPML import has been reported as flaky by users (Apple App Store reviews).
@@ -167,9 +179,9 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 |  | Price (annual) | Multi-Platform | Transcripts | Clip Share | Per-Podcast Settings | Subscribe URL Scheme | Wikidata ID |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Overcast | $14.99/yr Premium²⁹ | Web (login) | ✅³⁰ | ✅ | ✅ | `overcast://x-callback-url/add?url=` | [Q20707973](https://www.wikidata.org/wiki/Q20707973) |
-| Castro | $29.99/yr Plus³¹ | iOS only | 🚫 | ✅ | ✅ | `castro://subscribe/` | [Q100576609](https://www.wikidata.org/wiki/Q100576609) |
+| Castro | $29.99/yr Plus³¹ | iOS only | ⚠️⁴⁸ | ✅ | ✅ | `castro://subscribe/` | [Q100576609](https://www.wikidata.org/wiki/Q100576609) |
 | Downcast | $2.99 one-time³² | Mac (separate) | 🚫 | 🚫 | ✅💲 | `downcast://` | [Q39072639](https://www.wikidata.org/wiki/Q39072639) |
-| iCatcher! | $4.99 one-time³³ | iOS / watchOS | 🚫 | 🚫 | ✅ | `icatcher://` | — |
+| iCatcher! | $4.99 one-time³³ | iOS / watchOS | ⚠️⁴⁹ | 🚫 | ✅ | `icatcher://` | — |
 | Pocket Casts | $39.99/yr Plus, $99.99/yr Patron³⁴ | iOS / Android / Web / Mac / Windows / Wear / CarPlay³⁵ | ✅💲³⁶ | ✅ | ✅ | `pktc://subscribe/...` | [Q99620573](https://www.wikidata.org/wiki/Q99620573) |
 | Procast | Free, optional tip IAPs | iOS / Android | 🚫 | ✅ (cuts) |  |  | — |
 | Apple Podcasts | Free (Apple Podcasts Subscriptions sold per show) | macOS / iOS / iPadOS / web⁴⁷ | ✅³⁷ | ✅³⁸ | ✅ | `pcast://` | [Q70058728](https://www.wikidata.org/wiki/Q70058728) |
@@ -180,6 +192,8 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Spotify | Free, ad-supported; Premium $12.99/mo (US, Feb 2026)⁴⁴ | iOS / Android / Web / Mac / Windows / Cars / TVs / Smart speakers | ✅ (AI) | ✅ | ⚠️ |  | [Q689141](https://www.wikidata.org/wiki/Q689141) |
 | Fountain | Free; Premium £2.99/mo⁴⁵ | iOS / Android / Mac (M1+) | ✅ | ✅ |  |  | — |
 | Podverse | Free; Premium $18/yr⁴⁶ | iOS / Android / F-Droid / Web | ✅ | ✅ (any length) | ✅ |  | — |
+| Podurama | $49.99 one-time Premium⁵⁰ | iOS / Android / Web / Windows / macOS | ⚠️⁵¹ |  |  |  | — |
+| Superphonic | Free + $3.99/mo Premium⁵² | iOS / macOS (M1+) / visionOS | ✅ (AI)⁵² |  | ✅ |  | — |
 
 29. Overcast Premium increased from $9.99/yr to $14.99/yr on November 21, 2024 — first price change in eight years (Marco Arment, Mastodon; Podcast News Daily).
 30. Overcast transcripts shipped in version 2026.4 (April 8, 2026), powered by Marco Arment's rack of 48 Mac minis (AppleInsider, "A rack of 48 Mac minis now powers Overcast's podcast transcripts," April 7, 2026; 9to5Mac; MJTsai blog). Arment told *Curb Cuts* (April 10, 2026): "The breakthrough that finally made [transcripts] feasible at my scale was the new Apple speech-recognition API in the 26-series OSes last year."
@@ -200,6 +214,55 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 45. Fountain Premium is £2.99/month per support.fountain.fm/article/11-premium (last updated April 18, 2024: "Subscribe to Fountain Premium for just £2.99 a month to unlock a growing list of features"); no annual plan published.
 46. Podverse Premium is $18/year after a 3-month free trial (podverse.fm/membership).
 47. Apple Podcasts web player launched in April 2019 (9to5Mac, *Apple launches web version of Apple Podcasts ahead of standalone Mac app*, April 9, 2019; MacStories).
+48. Castro has displayed creator-provided transcripts (Podcasting 2.0 `podcast:transcript` tag — JSON, SRT, VTT, HTML) since February 2025, but does not generate them; transcript search and audio-text sync are listed as in progress (castro.fm blog, *Transcript Tag Support*).
+49. iCatcher! auto-downloads and displays Podcasting 2.0 creator-provided transcripts and chapter files (App Store release notes); it does not generate transcripts.
+50. Podurama (Podurama Ltd, UK) Premium is a one-time lifetime purchase — $49.99 on the official site, regularly discounted to $39.99 in deal shops — unlocking AI summaries, auto-generated chapters, and 10 GB of private audio/video uploads; playback, cross-device sync, and playlists are free. Its podcast directory appears to use the Apple Podcasts API (Podnews).
+51. Podurama shows subtitles on most video podcasts, but in-app transcripts for audio episodes are not yet available (the official FAQ lists them as planned); a separate "Transcript AI" web tool targets creators rather than listeners.
+52. Superphonic (solo-built by ex-Meta/OpenAI engineer Philip Su) meters AI features on the free tier — the first few minutes of each transcript and the first five chapters per episode — with unlimited via Premium ($3.99/mo, no annual plan). Playback speed runs to 5× in 0.1× steps with per-podcast speed overrides; the queue is a single reorderable playlist with Inbox/Later triage lists rather than named playlists (docs.superphonic.fm).
+
+## AI Features
+
+AI feature notability varies: ✅ in *AI Transcripts* / *AI Chapters* means the app generates them itself, while ⚠️ means it only displays creator-provided ones.
+
+|  | AI Transcripts | Transcript Search | AI Chapters | AI Summaries | AI Highlights | Ask AI / Chat | AI Discovery | AI Translation |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Overcast | ✅⁵³ | 🚫⁵⁴ | 🚫⁵⁴ | 🚫⁵⁴ | 🚫 | 🚫 | 🚫 | 🚫 |
+| Castro | ⚠️⁴⁸ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫⁵⁵ | 🚫 | 🚫 |
+| Downcast | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
+| iCatcher! | ⚠️⁴⁹ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
+| Pocket Casts | ✅💲⁵⁶ | ✅ | ⚠️⁵⁷ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
+| Procast | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
+| Apple Podcasts | ✅⁵⁸ | ✅ | ✅⁵⁹ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
+| RSSRadio | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
+| Player FM | ⚠️⁴¹ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
+| Snipd | ✅⁶⁰ | ✅ | ✅⁶⁰ | ✅⁶⁰ | ✅⁶¹ | ✅💲⁶¹ | ✅⁶² | ⚠️⁶² |
+| Castbox | ⚠️⁶³ |  | ⚠️⁶³ | ⚠️⁶³ | 🚫 | 🚫 | ✅⁶⁴ | 🚫 |
+| Spotify | ✅⁶⁵ | 🚫 | ✅⁶⁵ | 🚫 | 🚫 | ✅💲⁶⁶ | ✅⁶⁶ | ⚠️⁶⁷ |
+| Fountain | ✅💲⁶⁸ | ✅ | 🚫 | ✅💲⁶⁹ | 🚫 | 🚫 | 🚫 | 🚫 |
+| Podverse | ⚠️⁷⁰ |  | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
+| Podurama | ⚠️⁵¹ | 🚫 | ✅💲⁷¹ | ✅💲⁷¹ | ✅⁷¹ | ⚠️⁷¹ | ✅⁷¹ | 🚫 |
+| Superphonic | ✅⁷² |  | ✅⁷² | 🚫 | 🚫 | 🚫 |  | 🚫 |
+
+53. Overcast transcripts are free for all users since v2026.4 (April 2026), generated with Apple's 26-series speech APIs on Marco Arment's 48-Mac-mini cluster (on-device on iOS 26 for private feeds; creator-provided VTT transcripts are also ingested). An audio-fingerprinting step re-syncs transcripts when dynamic ad insertion shifts the audio (AppleInsider; 9to5Mac, April 2026).
+54. Arment has named transcript search, automatic chapters, and AI summaries as potential next steps built on transcripts, but none had shipped as of July 2026 (AppleInsider; Podnews).
+55. Bluck Apps promised "We're not adding an AI chatbot" when it acquired Castro (castro.fm, February 2024). AI episode Q&A instead ships in the separate companion app **Pod Seek** (March 2026, built on Apple's foundation models), which syncs with Castro. Castro also blocks AI-generated "slop" networks from its search results (castro.fm, December 2025).
+56. Pocket Casts generates transcripts server-side for Plus/Patron subscribers on select shows (episodes under ~2 h) since April 2025; creator-provided transcripts display free for everyone, and transcript search works on both (Pocket Casts blog; support KB).
+57. Pocket Casts AI-generated chapters launched July 7, 2026 on Android/web/desktop with iOS "coming very soon" — still pending on iOS at this revision (Pocket Casts blog).
+58. Apple has generated transcripts itself since iOS 17.4 (March 2024) — 11 languages since October 2024, 125M+ back-catalog episodes — searchable within an episode (Apple Newsroom; 9to5Mac).
+59. iOS 26.2 (December 2025) auto-generates chapters (labeled "Automatically created") for English episodes lacking creator chapters, with a creator opt-out, and adds "timed links" for things mentioned in-episode; iOS 26 (September 2025) added the ML-based Enhance Dialogue speech enhancement (MacRumors; Podnews; Apple Podcasts for Creators).
+60. Snipd generates transcripts with speaker names in 26 languages, plus AI chapters, summaries, and key takeaways for every processed episode; the free tier caps AI processing at ~2 episodes/week (snipd.com; Snipd help center).
+61. Snipd "snips" are captured via headphone triple-tap with AI transcript/summary, alongside AI-detected highlights; "Chat with Episodes" (November 2024, Premium) answers questions with quoted, timestamped citations (Snipd blog).
+62. Snipd's "AI DJ" (2026) plays an AI-curated feed of episode highlights with generated narration between segments (English-only at launch); other AI extras include custom summary prompts, YouTube/audiobook import, the Snipd Wrapped year-in-review, tap-to-translate for transcript passages, and AI-note export to Notion/Readwise/Obsidian (snipd.com; founder interviews, 2026).
+63. Castbox's real-time transcripts, auto-chapters, and episode summaries are claimed only in Castbox's own 2026 blog posts and are not corroborated by its release notes, help center, or third-party reviews — treat with caution (castbox.fm blog, May 2026; Transistor.fm transcript guide, 2025).
+64. Castbox "in-audio search" — ML speech-indexed keyword search that jumps to the moment a word is spoken — shipped in 2018 and is still marketed, alongside ML-personalized recommendations (Castbox; App Store listing).
+65. Spotify auto-generated transcripts have rolled out since 2023 (creator uploads and Podcasting 2.0 ingestion added 2025); "automatic chapters" (September 2025) are generated for English shows when creators don't supply them (Spotify for Creators; Podnews).
+66. Spotify's real-time AI Q&A about the playing episode is Premium-only (US, Sweden, Ireland at launch — May 2026); Spotify also launched AI-generated "Personal Podcasts"/briefings and extended natural-language Prompted Playlists to podcasts (Spotify Newsroom; TechCrunch, May 21, 2026).
+67. Spotify's September 2023 AI voice-translation pilot (OpenAI voice cloning — Lex Fridman, Steven Bartlett, et al.) never expanded beyond its pilot episodes and appears dormant (Spotify Newsroom, September 2023).
+68. Fountain generates transcripts on demand via Deepgram since May 2023 — free if already unlocked by any user, ~2,000 sats (~$0.50) per audio-hour otherwise, unlimited with Premium; creator-provided transcripts also display (Fountain blog; Deepgram).
+69. Fountain episode summaries arrived in v1.2 (May 2025) — 500 sats each or unlimited with Premium (Fountain blog).
+70. Podverse deliberately displays only creator-provided Podcasting 2.0 transcripts and chapters; there is no AI generation anywhere in its open-source stack (podverse.fm; GitHub).
+71. Podurama offers AI episode summaries and auto-generated chapters (Premium), "Trending Snippets" surfacing AI-picked top moments, and an AI chatbot for finding shows and episodes by topic — a discovery tool rather than per-episode Q&A (App Store release notes v6.4, April 2026; Cult of Mac).
+72. Superphonic generates AI transcripts and chapter/topic lists for every public podcast; the free tier gets the first few minutes of each transcript and the first five chapters per episode, and Premium removes the caps (superphonic.fm; docs.superphonic.fm).
 
 ## Acronyms
 
@@ -235,13 +298,29 @@ Sources used to compile this update (2024–2026):
 - Transistor.fm — *Most Popular Podcast Apps for iOS and Android (2026)*
 - TWiT.tv — *Which Podcast App Should You Use on iOS?* (iOS Today ep. 773, Oct 2025)
 - Whop — *Top 20 best podcast apps for audio lovers in 2026*
+- Castro Blog — *Transcript Tag Support* (Feb 2025), *Pod Seek* (Mar 2026), and *Hiding Inception Point AI* (Dec 2025)
+- Cult of Mac — *Podurama app uses AI to make podcasts better than ever* (Nov 27, 2023)
+- Curb Cuts — *Transcripts, with Marco Arment* (April 10, 2026)
+- Deepgram — *How Fountain delivers podcast transcripts in under 30 seconds* (customer spotlight)
+- Digital Minimalist — *Neuecast is a minimalist podcast app for casual listeners* (Feb 14, 2025)
+- Fountain Blog — *Fountain 0.7: Transcripts* (May 2023) and *Fountain 1.2: Episode Summaries* (May 2025)
+- Geeky Gadgets — *4 New Podcast Apps You Need to Know About* (April 15, 2025)
+- MacRumors — *Apple Releases iOS 26.2* (Dec 12, 2025)
+- Pocket Casts Blog — *Generated transcripts are here* (April 29, 2025), *Highlighted Transcripts* (June 24, 2026), and *AI generated chapters are here* (July 7, 2026)
+- Podnews — *New podcast apps* (directory listing for Podurama and other newcomers)
+- Snipd Blog — *Chat with your episodes* (November 2024)
+- Spotify Newsroom — Investor Day podcast AI features: Q&A, briefings, prompted playlists (May 21, 2026)
+- Spotify for Creators — *Automated transcripts and chapters* (September 9, 2025)
+- TechCrunch — *Spotify adds AI-powered Q&A and briefing generation features to podcasts* (May 21, 2026)
+- Transistor.fm — *Which podcast apps support transcripts?* (2025)
+- Scrum Master Toolbox Podcast — interview with Superphonic founder Philip Su (April 2026)
 - Latent Space — *Building Snipd: The AI Podcast App for Learning* (interview with Snipd founder Kevin)
 - Make Headway — *Snipd Pricing & Features: Is the Premium AI Subscription Worth It?*
 - Pocket Casts Support — *Pocket Casts Plus Pricing*
 - Castro Blog — *A Fresh Start Under New Ownership* (Jan 31, 2024)
 - Fountain Support — *Premium* (article 11, last updated April 18, 2024)
 - Official App Store listings for each app (current versions, May 2026)
-- Official websites: [overcast.fm](https://overcast.fm), [castro.fm](https://castro.fm), [downcastapp.com](https://downcastapp.com), [joeisanerd.com](https://joeisanerd.com), [pocketcasts.com](https://pocketcasts.com), [rssrad.io](https://rssrad.io), [player.fm](https://player.fm), [snipd.com](https://snipd.com), [castbox.fm](https://castbox.fm), [fountain.fm](https://fountain.fm), [podverse.fm](https://podverse.fm)
+- Official websites: [overcast.fm](https://overcast.fm), [castro.fm](https://castro.fm), [downcastapp.com](https://downcastapp.com), [joeisanerd.com](https://joeisanerd.com), [pocketcasts.com](https://pocketcasts.com), [rssrad.io](https://rssrad.io), [player.fm](https://player.fm), [snipd.com](https://snipd.com), [castbox.fm](https://castbox.fm), [fountain.fm](https://fountain.fm), [podverse.fm](https://podverse.fm), [podurama.com](https://podurama.com), [superphonic.fm](https://superphonic.fm), [metacast.app](https://metacast.app), [castamatic.com](https://castamatic.com)
 - This document started as a copy of [Podlove's Matrix](https://docs.google.com/spreadsheets/d/1c2L14UVH1xtN4iDG4awheLbMgPCQgaKEamUauWs1gps/edit) (now outdated).
 
 ## Appendix: Discontinued Apps
@@ -259,3 +338,19 @@ Breaker's brand and remaining technical assets were subsequently picked up by Lo
 Procast (Podflitzer GmbH, Munich) is technically still available on the App Store and Google Play and received minor updates in 2024, but it has been largely ignored by mainstream press since 2018, has very limited feature parity with current top-tier players, and the developer has explicitly described it as a passion project maintained "in our spare time" (podcast-app.de/support).
 
 It is retained in the main comparison table for historical continuity but most feature rows are intentionally sparse, reflecting the lack of recent third-party reviews. **Status:** Active but minimally maintained — verify availability before recommending.
+
+## Appendix: Apps Evaluated but Not Added
+
+Evaluated for the July 2026 revision:
+
+### Aisten — Not Added (Transcription/Language-Learning Tool, Not a General Player)
+
+[Aisten](https://apps.apple.com/us/app/aisten-podcast-transcription/id6453694910) (solo developer Xiang Chen / "Josscii") is an AI transcription app for language learners that happens to play podcasts: user-selectable on-device Whisper models plus cloud pre-transcription for popular shows, tap-to-define vocabulary, spaced repetition, dictation and shadowing practice, and extensive transcript translation (per-paragraph or full-episode, bring-your-own DeepL key). It ships in the App Store's *Education* category, lacks general-player table stakes (no CarPlay, no general playlists, transcription requires downloading the episode), and has essentially no podcast-press or community footprint. Actively updated through at least November 2025. Worth a look for language learners; not a fit for this comparison unless it broadens into a general player.
+
+### Neuecast — Not Added (Deliberately Minimalist, Nothing to Compare)
+
+[Neuecast](https://neuecast.app/) (solo developer Rishi Mody, NYC; released August 2024, v1.11 February 2026) is a genuinely nice, actively maintained minimalist player — free, ad-free, $9.99/yr Premium, ~190 US ratings averaging 4.7+ — but it deliberately omits nearly every axis this document compares: no chapters, no transcripts, no AI features, no trim silence or volume boost, no Android/web, and undocumented sync/OPML. Coverage is limited to indie blogs (Geeky Gadgets, Digital Minimalist). A defensible pick for casual listeners; revisit if its feature set grows.
+
+### Also on the Radar
+
+Other AI-first players surfaced during this revision, currently too new or too small for the main tables: **Podwise** (AI summaries/mind-maps, ~$8/mo), **PodSized** ("Blinkist for podcasts" with chat-with-episode), **Hypercast** (AI chapters for every episode), and **Podcatcher** (free transcription + transcript search).
