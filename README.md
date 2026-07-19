@@ -58,7 +58,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Superphonic | ✅⁷² |  |  |  |  |  |  | ✅ | ✅ |
 | Metacast | ✅⁷³ |  |  |  |  |  |  | ✅ | ✅ |
 | Castamatic | ✅⁷⁵ | ✅ | ⚠️⁷⁶ |  | ✅ |  | ✅ | ✅ | ✅ |
-| PulsarCast | ✅⁷⁷ | ✅ | ✅ |  | ✅ |  | ✅ | ✅ | ✅ |
+| PulsarCast | ✅⁷⁷ |  |  |  |  |  | ✅ | ✅ | ✅ |
 
 1. Overcast added chapter art and richer chapter handling alongside transcripts in the 2026.x line.
 2. Castro Plus required for chapter selection / playback enhancements.
@@ -262,7 +262,7 @@ In the *AI Transcripts* and *AI Chapters* columns, ✅ means the app generates t
 | Superphonic | ✅⁷² |  | ✅⁷² | 🚫 | 🚫 | 🚫 |  | 🚫 |
 | Metacast | ✅💲⁷³ | ✅ | ✅💲⁷³ | ✅💲⁷³ | 🚫 | 🚫⁷³ | 🚫 | 🚫 |
 | Castamatic | ✅⁷⁵ | ✅ | ✅⁷⁵ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
-| PulsarCast | ✅💲⁷⁷ | 🚫 | ✅💲⁷⁷ | ✅💲⁷⁷ | 🚫 | ✅💲⁷⁷ | ✅💲⁷⁷ | ✅💲⁷⁷ |
+| PulsarCast |  | 🚫 |  | ✅💲⁷⁷ | 🚫 | ✅💲⁷⁷ | ✅💲⁷⁷ | ✅💲⁷⁷ |
 
 53. Overcast transcripts are free for all users since v2026.4 (April 2026), generated with Apple's 26-series speech APIs on Marco Arment's 48-Mac-mini cluster (on-device on iOS 26 for private feeds; creator-provided VTT transcripts are also ingested). An audio-fingerprinting step re-syncs transcripts when dynamic ad insertion shifts the audio (AppleInsider; 9to5Mac, April 2026).
 54. Arment has named transcript search, automatic chapters, and AI summaries as potential next steps built on transcripts, but none had shipped as of July 2026 (AppleInsider; Podnews).
@@ -288,7 +288,7 @@ In the *AI Transcripts* and *AI Chapters* columns, ✅ means the app generates t
 74. Metacast gaps: no dedicated CarPlay interface (now-playing metadata only), no native iPad app, and no push notifications — new episodes land in a "Podcast Inbox" with two-week expiry; OPML import is a manual, support-assisted service for Premium subscribers with no OPML export; episode sharing is transcript-text quotes with timestamped deep links rather than audio clips (metacast.app FAQ/changelog).
 75. Castamatic 13 (April 2026) added on-device "Magic Transcript" (Apple's Speech framework — any downloaded episode, offline, automatic language detection) and "Magic Chapters" (a local sentence-embedding model detects topic shifts, and Apple's on-device Foundation Models write the chapter titles) — generated only when creators don't provide them, with nothing leaving the device; both are free. Its ML "Auto-Leveler" voice boost dates back to 2018 (castamatic.com blog).
 76. Castamatic (indie developer Franco Solerio, since 2015) is among the most complete Podcasting 2.0 clients on iOS: Podping-based near-instant new-episode notifications, Value-for-Value boosts via Nostr Wallet Connect, live episodes, cross-app comments, and the Podcast Index as its directory. It can auto-skip chapters matching per-show keywords; Premium ($14.99/yr) only removes the house banner (castamatic.com; Podnews).
-77. [PulsarCast](https://pulsarcast.com) is an indie, privacy-focused player with a free core and no ads or third-party trackers. Its free features include Podcasting 2.0 and embedded chapters, Apple and Podcast Index search, OPML import/export, private feeds, per-show intro/outro skipping and download limits, Voice Boost, smart-list filters, and optional cross-device sync. Its Ultra tier (€6/mo or €60/yr) adds Smart Speed, bookmarks, generated timestamped transcripts with translation, AI chapters and summaries, cited episode Q&A, and “Ask your library” discovery. It is available from the [App Store](https://apps.apple.com/app/pulsarcast/id6775487376) and [Google Play](https://play.google.com/store/apps/details?id=com.pulsarcast.app), with native Apple Watch, CarPlay and Android Auto clients plus a web player.
+77. [PulsarCast](https://pulsarcast.com) is an indie, privacy-focused player with a free core and no ads or third-party trackers. Its official site documents chapters and links but does not specify MP3 chapter markers, chapter selection, or start-time controls, so those cells are left blank. Free features include Apple and Podcast Index search, OPML import/export, private feeds, per-show intro/outro skipping and download limits, Voice Boost, smart-list filters, and optional cross-device sync. Its Ultra tier (€6/mo or €60/yr) adds Smart Speed and bookmarks (paid status reflects the current in-app entitlements), AI summaries, cited episode Q&A, and “Ask your library” discovery. The [App Store 2.3 release notes](https://apps.apple.com/us/app/pulsarcast/id6775487376) explicitly document complete timestamped transcripts and translation with Ultra; AI-generated chapters are not claimed. PulsarCast is also available from [Google Play](https://play.google.com/store/apps/details?id=com.pulsarcast.app), with native Apple Watch, CarPlay and Android Auto clients plus a web player.
 
 ## Acronyms
 
