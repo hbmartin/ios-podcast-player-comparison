@@ -5,7 +5,7 @@
 🔔 **Major changes since the last revision:**
 
 - New **[AI Features](#ai-features)** table comparing auto-generated transcripts, transcript search, AI chapters, summaries, highlights, in-episode chat, AI discovery, and translation across every app.
-- **Podurama**, **Superphonic**, **Metacast**, and **Castamatic** added to the comparison. **Aisten** and **Neuecast** were evaluated but not added — see the [appendix](#appendix-apps-evaluated-but-not-added).
+- **Podurama**, **Superphonic**, **Metacast**, **Castamatic**, and **PulsarCast** added to the comparison. **Aisten** and **Neuecast** were evaluated but not added — see the [appendix](#appendix-apps-evaluated-but-not-added).
 - **Pocket Casts** launched AI-generated chapters (July 2026 — Android/web/desktop first, iOS "coming very soon") and word-level highlighted transcripts (June 2026).
 - **Spotify** added Premium AI Q&A for podcasts, AI-generated "Personal Podcasts" briefings, and prompted playlists for podcasts (May 2026); its 2023 voice-translation pilot appears dormant.
 - **Snipd** shipped "Chat with Episodes" (November 2024) and an AI DJ highlights feed (2026).
@@ -58,6 +58,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Superphonic | ✅⁷² |  |  |  |  |  |  | ✅ | ✅ |
 | Metacast | ✅⁷³ |  |  |  |  |  |  | ✅ | ✅ |
 | Castamatic | ✅⁷⁵ | ✅ | ⚠️⁷⁶ |  | ✅ |  | ✅ | ✅ | ✅ |
+| PulsarCast | ✅⁷⁷ | ✅ | ✅ |  | ✅ |  | ✅ | ✅ | ✅ |
 
 1. Overcast added chapter art and richer chapter handling alongside transcripts in the 2026.x line.
 2. Castro Plus required for chapter selection / playback enhancements.
@@ -92,6 +93,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Superphonic | ✅ |  | ✅⁵² |  |  | ⚠️⁵² |  |  |
 | Metacast | ✅ | 🚫 | ✅ |  | ✅ | ✅💲 | 🚫 | ✅ |
 | Castamatic | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ |  |
+| PulsarCast | ✅ | ✅💲⁷⁷ | ✅ | ✅ | ✅💲 | ✅ | ✅💲 | ✅ |
 
 11. Overcast's "Voice Boost" and "Smart Speed" are signature features (Marco Arment, Overcast.fm).
 12. Pocket Casts Plus required for Bookmarks (per 9to5Google).
@@ -121,6 +123,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Superphonic |  | ✅ | ✅ | ✅ |  | ✅ |  |  |  |
 | Metacast |  | ⚠️⁷⁴ |  | 🚫 |  | 🚫⁷⁴ |  |  |  |
 | Castamatic | ✅ | ✅ | ✅ | ✅ |  | ✅⁷⁶ |  |  |  |
+| PulsarCast | ✅ | ✅ |  | ✅ | ✅ | ✅ | ✅ | ✅ | 🚫 |
 
 16. iCatcher! release notes (Dec 2024) reference CarPlay reliability fixes; support is current.
 17. Player FM added CarPlay support in a Maple Media release per the iOS App Store listing.
@@ -149,6 +152,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Superphonic | ✅ |  |  |  |  | ✅ |  |  |  |
 | Metacast | ✅ |  |  |  |  | ✅ | ✅💲 |  |  |
 | Castamatic | ✅ | ✅ | ✅ |  |  | ✅ | ✅ | ✅ | ✅ |
+| PulsarCast | ✅ | ✅ | ✅ |  | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 20. Downcast supports per-podcast intro/outro skip ranges (App Store reviews).
 21. RSSRadio explicitly supports password-protected feeds, including 1Password (App Store listing).
@@ -179,6 +183,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Superphonic | ✅ |  |  |  |  | ✅ |  |
 | Metacast | ✅ | Proprietary |  | 🚫 | ⚠️⁷⁴ | ✅ |  |
 | Castamatic | ✅ | iCloud | ⚠️ | ✅ | ✅ | ✅⁷⁶ |  |
+| PulsarCast | ✅ | Proprietary | 🚫 | ✅ | ✅ | ✅⁷⁷ |  |
 
 26. Bluck Apps stated in January 2024 that cross-device sync is on the post-stabilization roadmap; full sync is still partial/in development as of recent releases.
 27. Fountain OPML import has been reported as flaky by users (Apple App Store reviews).
@@ -206,6 +211,7 @@ Please help keep this updated by [leaving a comment](https://github.com/hbmartin
 | Superphonic | Free + $3.99/mo Premium⁵² | iOS / macOS (M1+) / visionOS | ✅ (AI)⁵² |  | ✅ |  | — |
 | Metacast | $19.99/yr or $1.99/mo Premium⁷³ | iOS / Android / Web (read-only) | ✅💲⁷³ | ⚠️⁷⁴ |  |  | — |
 | Castamatic | Free + $14.99/yr Premium⁷⁶ | iOS / watchOS / CarPlay / macOS (M1+) | ✅ (AI)⁷⁵ | 🚫 | ✅ | `castamatic://` | — |
+| PulsarCast | Free + €60/yr Ultra⁷⁷ | iOS / iPadOS / macOS / watchOS / CarPlay / Android / Android Auto / Web | ✅💲⁷⁷ | ⚠️ (timestamped links) | ✅ |  | — |
 
 29. Overcast Premium increased from $9.99/yr to $14.99/yr on November 21, 2024 — first price change in eight years (Marco Arment, Mastodon; Podcast News Daily).
 30. Overcast transcripts shipped in version 2026.4 (April 8, 2026), powered by Marco Arment's rack of 48 Mac minis (AppleInsider, "A rack of 48 Mac minis now powers Overcast's podcast transcripts," April 7, 2026; 9to5Mac; MJTsai blog). Arment told *Curb Cuts* (April 10, 2026): "The breakthrough that finally made [transcripts] feasible at my scale was the new Apple speech-recognition API in the 26-series OSes last year."
@@ -256,6 +262,7 @@ In the *AI Transcripts* and *AI Chapters* columns, ✅ means the app generates t
 | Superphonic | ✅⁷² |  | ✅⁷² | 🚫 | 🚫 | 🚫 |  | 🚫 |
 | Metacast | ✅💲⁷³ | ✅ | ✅💲⁷³ | ✅💲⁷³ | 🚫 | 🚫⁷³ | 🚫 | 🚫 |
 | Castamatic | ✅⁷⁵ | ✅ | ✅⁷⁵ | 🚫 | 🚫 | 🚫 | 🚫 | 🚫 |
+| PulsarCast | ✅💲⁷⁷ | 🚫 | ✅💲⁷⁷ | ✅💲⁷⁷ | 🚫 | ✅💲⁷⁷ | ✅💲⁷⁷ | ✅💲⁷⁷ |
 
 53. Overcast transcripts are free for all users since v2026.4 (April 2026), generated with Apple's 26-series speech APIs on Marco Arment's 48-Mac-mini cluster (on-device on iOS 26 for private feeds; creator-provided VTT transcripts are also ingested). An audio-fingerprinting step re-syncs transcripts when dynamic ad insertion shifts the audio (AppleInsider; 9to5Mac, April 2026).
 54. Arment has named transcript search, automatic chapters, and AI summaries as potential next steps built on transcripts, but none had shipped as of July 2026 (AppleInsider; Podnews).
@@ -281,6 +288,7 @@ In the *AI Transcripts* and *AI Chapters* columns, ✅ means the app generates t
 74. Metacast gaps: no dedicated CarPlay interface (now-playing metadata only), no native iPad app, and no push notifications — new episodes land in a "Podcast Inbox" with two-week expiry; OPML import is a manual, support-assisted service for Premium subscribers with no OPML export; episode sharing is transcript-text quotes with timestamped deep links rather than audio clips (metacast.app FAQ/changelog).
 75. Castamatic 13 (April 2026) added on-device "Magic Transcript" (Apple's Speech framework — any downloaded episode, offline, automatic language detection) and "Magic Chapters" (a local sentence-embedding model detects topic shifts, and Apple's on-device Foundation Models write the chapter titles) — generated only when creators don't provide them, with nothing leaving the device; both are free. Its ML "Auto-Leveler" voice boost dates back to 2018 (castamatic.com blog).
 76. Castamatic (indie developer Franco Solerio, since 2015) is among the most complete Podcasting 2.0 clients on iOS: Podping-based near-instant new-episode notifications, Value-for-Value boosts via Nostr Wallet Connect, live episodes, cross-app comments, and the Podcast Index as its directory. It can auto-skip chapters matching per-show keywords; Premium ($14.99/yr) only removes the house banner (castamatic.com; Podnews).
+77. [PulsarCast](https://pulsarcast.com) is an indie, privacy-focused player with a free core and no ads or third-party trackers. It supports Podcasting 2.0 and embedded chapters, Apple and Podcast Index search, OPML import/export, private feeds, per-show intro/outro skipping and download limits, Voice Boost, Smart Speed, bookmarks, smart lists and optional cross-device sync. Its Ultra tier (€6/mo or €60/yr) adds generated timestamped transcripts with translation, AI chapters and summaries, cited episode Q&A, and “Ask your library” discovery. It is available from the [App Store](https://apps.apple.com/app/pulsarcast/id6775487376) and [Google Play](https://play.google.com/store/apps/details?id=com.pulsarcast.app), with native Apple Watch, CarPlay and Android Auto clients plus a web player.
 
 ## Acronyms
 
@@ -340,7 +348,7 @@ Sources used to compile this update (2024–2026):
 - Castro Blog — *A Fresh Start Under New Ownership* (Jan 31, 2024)
 - Fountain Support — *Premium* (article 11, last updated April 18, 2024)
 - Official App Store listings for each app (current versions, May 2026)
-- Official websites: [overcast.fm](https://overcast.fm), [castro.fm](https://castro.fm), [downcastapp.com](https://downcastapp.com), [joeisanerd.com](https://joeisanerd.com), [pocketcasts.com](https://pocketcasts.com), [rssrad.io](https://rssrad.io), [player.fm](https://player.fm), [snipd.com](https://snipd.com), [castbox.fm](https://castbox.fm), [fountain.fm](https://fountain.fm), [podverse.fm](https://podverse.fm), [podurama.com](https://podurama.com), [superphonic.fm](https://superphonic.fm), [metacast.app](https://metacast.app), [castamatic.com](https://castamatic.com)
+- Official websites: [overcast.fm](https://overcast.fm), [castro.fm](https://castro.fm), [downcastapp.com](https://downcastapp.com), [joeisanerd.com](https://joeisanerd.com), [pocketcasts.com](https://pocketcasts.com), [rssrad.io](https://rssrad.io), [player.fm](https://player.fm), [snipd.com](https://snipd.com), [castbox.fm](https://castbox.fm), [fountain.fm](https://fountain.fm), [podverse.fm](https://podverse.fm), [podurama.com](https://podurama.com), [superphonic.fm](https://superphonic.fm), [metacast.app](https://metacast.app), [castamatic.com](https://castamatic.com), [pulsarcast.com](https://pulsarcast.com)
 - This document started as a copy of [Podlove's Matrix](https://docs.google.com/spreadsheets/d/1c2L14UVH1xtN4iDG4awheLbMgPCQgaKEamUauWs1gps/edit) (now outdated).
 
 ## Appendix: Discontinued Apps
